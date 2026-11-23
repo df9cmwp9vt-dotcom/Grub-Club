@@ -1,0 +1,22 @@
+{
+  "name": "GrubClub · Good food, small budget",
+  "short_name": "GrubClub",
+  "description": "Pantry recipes, meal planning and shopping",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#faf9f4",
+  "background_color": "#fbfaf6",
+  "icons": [
+    {
+      "src": "app-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
