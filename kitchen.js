@@ -27,7 +27,7 @@ function prep(r){
 const book=recipes.map(prep);
 const byId=new Map(book.map(r=>[r.id,r]));
 const allKeys=[...new Set(book.flatMap(r=>r.keys))].sort();
-const preferred=[102,105,106,101,103,104,109,110,108,18,63,112,107,111,3,8];
+const preferred=[137,138,139,140,141,142,102,105,106,101,103,104,109,110,108,18,63,112,107,111,3,8];
 const order=new Map([...new Set([...preferred,...book.slice(87).map(r=>r.id),...book.map(r=>r.id)])].map((id,i)=>[id,i]));
 const defaults={budget:'any',time:'any',equip:'any',diet:'any',mode:'all',category:'all'};
 function match(r,pantry,priority){
@@ -44,7 +44,7 @@ function ranked(s){
   return book.filter(r=>{
     if(!searchMatch(r,s.q))return false;
     if(f.budget!=='any'&&r.cost>Number(f.budget)||f.time!=='any'&&r.time>Number(f.time))return false;
-    if(f.diet!=='any'&&!r.tags.includes(f.diet)||f.equip!=='any'&&r.equip.some(k=>k!==f.equip)||f.category!=='all'&&r.category!==f.category)return false;
+    if(f.diet!=='any'&&!r.tags.includes(f.diet)||f.equip!=='any'&&r.equip.some(k=>k!==f.equip)||f.category!=='all'&&(f.category==='Dinner'?!r.dinner:r.category!==f.category))return false;
     return !(s.collection==='quick'&&r.time>20||s.collection==='budget'&&r.cost>1.5||s.collection==='veg'&&!r.tags.includes('vegetarian')||s.collection==='air'&&!r.equip.includes('air fryer'));
   }).map(r=>match(r,s.ingredients,s.priority)).filter(row=>f.mode==='now'?row.missing.length===0:f.mode==='near'?row.have&&row.missing.length>0&&row.missing.length<=2:true).sort((a,b)=>{
     if(s.sort==='fast'&&a.r.time!==b.r.time)return a.r.time-b.r.time;

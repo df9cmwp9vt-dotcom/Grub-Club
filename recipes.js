@@ -38,7 +38,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Rub oregano between your fingers over the tomatoes. Add chilli flakes and crush the tomatoes with your spoon as they soften."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 2,
@@ -117,7 +118,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate the ginger and finely slice the spring onion. Fry the ginger and onion whites with the veg until fragrant. Save the greens for the bowl."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 4,
@@ -155,7 +157,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Swirl paprika into the beans. Snip chives over the potato once the cheese starts to melt."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 5,
@@ -228,7 +231,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Crush a few peas against the side of the pan to thicken the pesto. Fold in lemon zest and finely sliced mint off the heat."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 7,
@@ -307,7 +311,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Stir cumin and paprika through the softened onion for 20 seconds. As soon as they smell toasted, add the tomatoes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 9,
@@ -383,7 +388,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Chop dill and stir it into the mayonnaise with lemon juice before folding through the tuna. Leave a few larger flakes for texture."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 11,
@@ -502,7 +508,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Season the drained tomato with oregano and paprika. Spread it thinly so the wrap crisps without getting soggy."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 14,
@@ -544,7 +551,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Lift the grains apart with a fork and fold in the zest while warm. Toss in chopped parsley with the chickpeas."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 15,
@@ -585,7 +593,8 @@ const recipes = [
    },
    "step": 4,
    "method": "Mix sesame oil and chilli flakes with the soy before tossing through the noodles. Use a spoonful of noodle water to spread the dressing."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 16,
@@ -628,7 +637,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate the ginger into the softened onion. Stir until fragrant, then add the cumin with the curry powder."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 17,
@@ -743,7 +753,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Mash a few beans into their sauce with paprika. Add vinegar a few drops at a time until the sauce tastes bright."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 20,
@@ -824,7 +835,8 @@ const recipes = [
    },
    "step": 4,
    "method": "Simmer oregano with the tomatoes, scraping the browned chicken juices into the sauce. Tear basil over the finished pasta."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 22,
@@ -863,7 +875,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Finely slice spring onion. Stir the whites and grated ginger into the chicken for the final minute of frying. Scatter the greens over the rice."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 23,
@@ -902,7 +915,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Coat the chicken and onion in paprika and cumin. Add a teaspoon of water if the spices begin to stick."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 24,
@@ -940,7 +954,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Crush rosemary into the oil for the wedges. Dust the chicken with paprika before it goes in the basket."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 25,
@@ -979,7 +994,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Finely grate ginger and garlic. Push the chicken aside and stir them in the pan juices for 20 seconds before mixing through."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 26,
@@ -1019,7 +1035,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Add cumin and crushed oregano once the onion is soft. Stir for a few seconds to scent the oil."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 27,
@@ -1059,7 +1076,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Fluff the warm couscous with lemon zest. Chop the parsley, stalks and all, and fold it in with the peas."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 28,
@@ -1097,7 +1115,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Spread a thin layer of mustard inside the bread and crumble thyme over the cheese before closing the sandwich."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 29,
@@ -1136,7 +1155,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Grate the ginger into the pan juices towards the end of frying. Beat the white pepper into the egg before adding it."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 30,
@@ -1175,7 +1195,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Stir paprika and thyme into the chicken juices. Add the tomatoes promptly and scrape the base of the pan to loosen the browned bits."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 31,
@@ -1213,7 +1234,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Before filling, fluff the potato flesh with a fork and fold in the mustard. Finish with snipped chives over the cheese."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 32,
@@ -1252,7 +1274,8 @@ const recipes = [
    },
    "step": 3,
    "method": "Grate ginger straight into the tomato sauce and stir in ground coriander. Crush a spoonful of chickpeas to give the sauce body."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 33,
@@ -1743,7 +1766,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Toss the cut tomatoes with vinegar and oregano. Let their juices collect while you crumble the feta, then dress the chickpeas with those juices."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 46,
@@ -1858,7 +1882,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger into the peanut dressing and stir in lime juice. Add water a teaspoon at a time until it coats the back of a spoon."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 49,
@@ -1897,7 +1922,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Let the mushrooms colour on one side before turning. Add thyme towards the end of frying and finish the creamy sauce with lemon zest."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 50,
@@ -1937,7 +1963,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Add chilli flakes to the warm garlic oil for a few seconds. Finely chop parsley and fold through the pasta with the lemon."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 51,
@@ -1976,7 +2003,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mash a few broccoli florets with the reserved water. Stir mustard and nutmeg into the cheese sauce and fold in the mashed broccoli."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 52,
@@ -2016,7 +2044,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Simmer oregano with the tomatoes and lentils. Stir in balsamic vinegar just before tossing with spaghetti."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 53,
@@ -2056,7 +2085,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Let the mushroom edges brown before adding grated ginger. Stir sesame oil through the rice after taking it off the heat."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 54,
@@ -2094,7 +2124,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Stir chilli flakes into the wilting spinach. Add lemon zest with the pesto once the pan is off the heat."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 55,
@@ -2134,7 +2165,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Stir the spices through the softened onion. Add the dry rice and turn it in the seasoned oil before pouring in the liquid."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 56,
@@ -2174,7 +2206,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger into the softened onion. Add cumin with the curry powder and stir until fragrant before adding liquid."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 57,
@@ -2214,7 +2247,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Stir coriander and paprika into the garlic oil. Have the tomatoes ready to tip in as soon as the spices smell fragrant."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 58,
@@ -2254,7 +2288,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Let the pepper edges blister before stirring in cumin. Squeeze lime over the beans as you fill the wraps."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 59,
@@ -2294,7 +2329,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Toss the vegetables with ground coriander before roasting. Tear mint into the couscous just before serving."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 60,
@@ -2334,7 +2370,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mix grated ginger and vinegar into the soy. Add the mixture once the tofu has browned so its edges stay golden."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 61,
@@ -2374,7 +2411,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Let the mushroom liquid bubble away. Add the spices to the browned mushrooms and stir briefly before adding the beans."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 62,
@@ -2413,7 +2451,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Crumble thyme over the potatoes and let their edges colour. Snip chives into the beaten eggs."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 63,
@@ -2452,7 +2491,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Stir cumin and paprika into the soft peppers for 20 seconds. Scrape the spices from the pan into the tomato sauce."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 64,
@@ -2490,7 +2530,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mix garlic granules with a spoonful of hot noodle water. Stir into the cheese and finish with snipped chives."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 65,
@@ -2527,7 +2568,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Fold chopped dill and lemon juice into the tuna filling. Break up the largest pieces but leave some flakes for texture."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 66,
@@ -2566,7 +2608,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Rub oregano over the tomato layer and scatter chilli flakes evenly so each bite gets a little warmth."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 67,
@@ -2606,7 +2649,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Stir cumin into the hot beans. Mash a few against the bowl, then stir in lime juice before adding the rice."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 68,
@@ -2683,7 +2727,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mix ginger and garlic into the cornflour to distribute them evenly. Shake off loose coating before air frying."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 70,
@@ -2722,7 +2767,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Stir oregano into the hot soaking water. When the grains are tender, fluff with a fork and fold in the lemon zest."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 71,
@@ -2761,7 +2807,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger into the hot broth while the noodles soften. Drizzle sesame oil into the bowl just before eating."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 72,
@@ -2798,7 +2845,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Add chilli flakes to the garlic oil and stir oregano through the tomatoes. Fold the tuna in last to keep it in flakes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 73,
@@ -2835,7 +2883,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Chop dill and stir it into the cream cheese with lemon zest. Loosen with a spoonful of pasta water before adding the salmon."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 74,
@@ -2872,7 +2921,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Steam-dry the drained potatoes briefly before mashing. Stir mustard and finely chopped parsley into the mash before adding the tuna."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 75,
@@ -2944,7 +2994,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Mix dill and lemon zest together and set aside. Toss with the hot wedges after air frying so the herbs stay fragrant."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 77,
@@ -2981,7 +3032,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger into the honey and soy and add chilli flakes. Have the glaze ready to toss through once the chicken has cooked."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 78,
@@ -3018,7 +3070,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Simmer thyme with the vegetables. Chop the parsley finely and stir it in after the chicken is cooked, just before ladling out."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 79,
@@ -3056,7 +3109,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Reserve a mug of pasta water before draining. Loosen the pesto with a splash of it, then stir in lemon zest and chilli flakes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 80,
@@ -3093,7 +3147,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Rub sage into the onion and scrape up the browned sausage juices. Stir vinegar into the beans at the end to balance their sweetness."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 81,
@@ -3130,7 +3185,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Give the mince time to brown before stirring in cumin and coriander. Stir for 20 seconds, then add the tomatoes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 82,
@@ -3167,7 +3223,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Once the mince has browned, stir paprika and oregano into the pan juices. Add a spoonful of water to lift the browned bits."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 83,
@@ -3357,7 +3414,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger alongside the garlic. Add them together, then stir cumin in with the curry powder so it toasts briefly before the water goes in."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 101,
@@ -3401,7 +3459,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Add chilli flakes as the garlic turns fragrant. Rub oregano into the tomato juices and let the sauce reduce before tossing with spaghetti."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 102,
@@ -3442,7 +3501,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Measure cumin and cinnamon into the curry powder. Stir them through the chicken juices before coating the rice in the spiced oil."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 103,
@@ -3484,7 +3544,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Grate ginger into the softened onion. Keep the lime juice for the end and stir it in off the heat to brighten the coconut sauce."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 104,
@@ -3522,7 +3583,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Crush rosemary finely and scatter it over the potatoes. Rub paprika into the oiled chicken before roasting."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 105,
@@ -3566,7 +3628,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Chop coriander stalks into the tomato salsa and save the leaves for serving. Add cumin to the pan with the paprika."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 106,
@@ -3608,7 +3671,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Rub thyme into the stock while it is hot. Keep the chopped parsley for the end, folding it through with the cheese."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 107,
@@ -3651,7 +3715,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Measure ground coriander alongside the cumin and fry them together with the onion. Finish the cooked lentils with lemon juice."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 108,
@@ -3691,7 +3756,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Add oregano and chilli flakes as the tomatoes simmer. Use your spoon to crush any larger pieces before folding in the pasta."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 109,
@@ -3731,7 +3797,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Dust the golden potato edges with paprika and turn once. Snip the chives into the beaten egg before pouring it over."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 110,
@@ -3771,7 +3838,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Toss the cucumber sticks with vinegar and chilli and leave them while you cook the salmon. Spoon a little of the pickle juice over the rice."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 111,
@@ -3810,7 +3878,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Crush the fennel seeds under the back of a spoon. Toss with thyme and the peppers so the spices roast in the sausage juices."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 112,
@@ -3852,7 +3921,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Stir grated ginger into the garlic just until fragrant. Add vinegar with the soy to give the sticky noodles a sharper finish."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 113,
@@ -3937,7 +4007,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Add ground coriander to the cauliflower with the cumin. Slice mint finely and fold it into the lemon yoghurt just before serving."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 115,
@@ -3977,7 +4048,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Squeeze excess water from the wilted spinach, then season it with nutmeg. Fold chopped dill through the feta mixture."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 116,
@@ -4020,7 +4092,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Finely grate ginger into the peanut butter and add chilli flakes. Loosen this mixture with the lime and soy when making the sauce."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 117,
@@ -4102,7 +4175,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mash a few hot beans with the cumin and a spoonful of their cooking liquid. Scatter chopped coriander over the filled potato."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 119,
@@ -4139,7 +4213,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Crush garlic and simmer it in the stock with the ginger. Add white pepper before the noodles so its warmth runs through the broth."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 120,
@@ -4222,7 +4297,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Rub thyme into the simmering beans. Once the sauce thickens, add the vinegar a little at a time to balance the tomatoes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 122,
@@ -4295,7 +4371,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Spread a thin layer of mustard over the fish and tuck chopped dill under the lemon before sealing the parcel."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 124,
@@ -4336,7 +4413,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Work the zest and nutmeg into the pea and cream cheese mixture. Leave a few peas whole to contrast with the soft gnocchi."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 125,
@@ -4378,7 +4456,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Shred mint and mix it with the yoghurt and lemon juice. Spoon the cool dressing over the hot harissa chickpeas."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 126,
@@ -4417,7 +4496,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Crush fennel seeds under a spoon and add them to the browned sausage with chilli flakes. Stir briefly before adding the orzo."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 127,
@@ -4455,7 +4535,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Mix mustard and nutmeg with a spoonful of hot broth. Stir this back into the pan before adding the cheese."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 128,
@@ -4499,7 +4580,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Turn the browned potatoes in cumin with the paprika. Stir vinegar through the tomato sauce at the end to sharpen the smoky flavour."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 129,
@@ -4621,7 +4703,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Grate ginger into the tahini dressing and add chilli flakes. Whisk in cold water gradually until the dressing falls from the spoon in ribbons."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 132,
@@ -4660,7 +4743,8 @@ const recipes = [
    },
    "step": 1,
    "method": "Add cumin to the chicken with the paprika. Finely slice the mint with a clean knife and stir it into the cucumber yoghurt."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 133,
@@ -4780,7 +4864,8 @@ const recipes = [
    },
    "step": 2,
    "method": "Whisk mustard and vinegar into the lemon dressing. Coat the beans before gently folding in the sardines to keep them in flakes."
-  }
+  },
+  "dinner": true
  },
  {
   "id": 136,
@@ -4822,6 +4907,275 @@ const recipes = [
    },
    "step": 1,
    "method": "Rub oregano over the oiled pepper before roasting. Tear mint into the finished couscous with the feta."
+  },
+  "dinner": true
+ },
+ {
+  "id": 137,
+  "name": "Golden gnocchi with mustard leeks & mushrooms",
+  "category": "Pasta & rice",
+  "cost": 2.35,
+  "time": 30,
+  "equip": [
+   "hob"
+  ],
+  "tags": [
+   "vegetarian"
+  ],
+  "ings": {
+   "gnocchi": "150 g",
+   "leek": "1/2",
+   "mushrooms": "90 g",
+   "crème fraîche": "2 tbsp",
+   "Dijon mustard": "1 tsp"
+  },
+  "description": "Crisp the gnocchi, then fold them into a silky leek sauce just before serving.",
+  "steps": [
+   "Split the leek lengthways, rinse between the layers and slice thinly. Slice the mushrooms. Cook the gnocchi according to the packet, reserve a mug of cooking water and drain well.",
+   "Heat a little oil in a large frying pan. Add the gnocchi in one layer and leave for 2–3 minutes before turning. Once golden in patches, lift onto a plate.",
+   "Fry the mushrooms in the same pan until their moisture evaporates. Lower the heat, add the leek and a splash of water, cover and soften for 5–7 minutes.",
+   "Stir in the mustard and crème fraîche over low heat. Add the reserved water a spoonful at a time until the sauce coats a spoon. Fold in half the gnocchi and scatter the crispest ones on top."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 3,
+   "method": "Crumble thyme over the mushrooms as they brown. Finely chop parsley and scatter it over the finished gnocchi."
+  },
+  "video": {
+   "youtubeId": "1Za3OM8tyow",
+   "topic": "Creamy pea gnocchi"
+  },
+  "dinner": true
+ },
+ {
+  "id": 138,
+  "name": "Spiced lentil-stuffed aubergine",
+  "category": "Vegetarian & vegan",
+  "cost": 2.15,
+  "time": 45,
+  "equip": [
+   "oven",
+   "hob"
+  ],
+  "tags": [
+   "vegetarian"
+  ],
+  "ings": {
+   "aubergine": "1 small",
+   "green lentils": "120 g cooked",
+   "tinned tomatoes": "100 g",
+   "ground cumin": "1/2 tsp",
+   "lemon": "1/4",
+   "yoghurt": "2 tbsp"
+  },
+  "description": "Roasted aubergine boats filled with cumin lentils and finished with cool lemon yoghurt.",
+  "steps": [
+   "Heat the oven to 200°C fan. Halve the aubergine lengthways. Score the flesh in a diamond pattern without cutting the skin. Brush with oil and roast cut-side down for 25–30 minutes until tender.",
+   "Meanwhile, warm a little oil in a saucepan. Stir in cumin for 20 seconds, then add the tomatoes and drained, ready-cooked lentils. Simmer for 8–10 minutes until thick enough to mound on a spoon.",
+   "Turn the aubergine halves over. Scoop out some of the soft centres, leaving the skins intact. Chop the flesh, fold it into the lentils and spoon the filling back into each half.",
+   "Return to the oven for 5 minutes. Mix yoghurt with a squeeze of lemon and enough water to drizzle. Spoon over the hot aubergines just before serving."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "fresh mint": "4 leaves"
+   },
+   "step": 2,
+   "method": "Add paprika with the cumin. Tear mint into the lemon yoghurt for a cool contrast to the smoky filling."
+  },
+  "video": {
+   "youtubeId": "WMAmZjZOqw4",
+   "topic": "Spiced cauliflower and lentil bowl"
+  },
+  "dinner": true
+ },
+ {
+  "id": 139,
+  "name": "Pork medallions with apple, cider & mustard mash",
+  "category": "Meat & chicken",
+  "cost": 3.45,
+  "time": 35,
+  "equip": [
+   "hob"
+  ],
+  "tags": [],
+  "ings": {
+   "pork fillet": "150 g",
+   "potatoes": "200 g",
+   "apple": "1/2",
+   "dry cider": "75 ml",
+   "Dijon mustard": "1 tsp",
+   "milk": "2 tbsp"
+  },
+  "description": "A quick pan sauce made from browned apple and cider brings pork and fluffy mash together.",
+  "steps": [
+   "Peel and dice the potatoes. Cover with cold water, bring to the boil and simmer for 12–15 minutes until a knife slips through. Drain, steam-dry briefly and mash with the milk and half the mustard. Cover to keep warm.",
+   "While the potatoes cook, core and slice the apple into wedges. On a separate board slice the pork into 2 cm medallions. Wash your hands and clean the board and knife.",
+   "Heat a little oil in a frying pan. Brown the pork on both cut sides, then lift to a plate. Add the apple and cook until golden at the edges.",
+   "Pour in the cider and scrape up the browned bits. Stir in the remaining mustard. Return the pork and its juices to the pan and simmer gently, turning once, until cooked through. Add a splash of water if the sauce thickens too soon.",
+   "Spoon mash onto a warm plate, nestle the pork and apple alongside and spoon the glossy pan sauce over the top."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "dried sage": "1 pinch",
+    "ground black pepper": "1 pinch"
+   },
+   "step": 3,
+   "method": "Rub sage over the apple wedges as they brown and grind pepper into the cider sauce."
+  },
+  "dinner": true,
+  "video": {
+   "youtubeId": "Q06u0hOM8xY",
+   "topic": "Pork medallions with apple and cider sauce"
   }
+ },
+ {
+  "id": 140,
+  "name": "Smoky cod & butter beans with lemon gremolata",
+  "category": "Fish",
+  "cost": 3.65,
+  "time": 30,
+  "equip": [
+   "hob"
+  ],
+  "tags": [],
+  "ings": {
+   "cod fillet": "150 g",
+   "butter beans": "150 g drained",
+   "tinned tomatoes": "150 g",
+   "garlic": "1 clove",
+   "smoked paprika": "1/2 tsp",
+   "lemon": "1/4",
+   "fresh parsley": "1 tbsp"
+  },
+  "description": "Steam the cod over smoky beans and finish with a finely chopped parsley, garlic and lemon topping.",
+  "steps": [
+   "Pat the cod dry and check for bones. Finely grate the lemon zest. Chop the parsley and garlic separately. Mix the parsley, zest and a small pinch of the chopped garlic on a clean board for the gremolata.",
+   "Warm oil in a lidded frying pan. Soften the remaining garlic briefly, stir in the paprika and immediately add the tomatoes and drained beans. Simmer for 8 minutes, crushing a spoonful of beans to thicken the sauce.",
+   "Nestle the cod into the beans, add a splash of water and cover. Keep at a gentle simmer for about 7–10 minutes, depending on thickness, until the fish is opaque and flakes easily throughout.",
+   "Squeeze lemon juice into the beans. Lift the fish onto a bed of beans and scatter the fresh gremolata over the top."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "chilli flakes": "1 pinch",
+    "dried oregano": "1 pinch"
+   },
+   "step": 2,
+   "method": "Add chilli with the garlic and rub oregano into the tomatoes as they simmer."
+  },
+  "video": {
+   "youtubeId": "TaOcIfvAFoQ",
+   "topic": "Creamy butter bean skillet"
+  },
+  "dinner": true
+ },
+ {
+  "id": 141,
+  "name": "Tarragon chicken with braised leeks & rice",
+  "category": "Meat & chicken",
+  "cost": 2.95,
+  "time": 35,
+  "equip": [
+   "hob"
+  ],
+  "tags": [],
+  "ings": {
+   "chicken": "150 g",
+   "leek": "1/2",
+   "rice": "65 g dry",
+   "Dijon mustard": "1 tsp",
+   "crème fraîche": "2 tbsp",
+   "dried tarragon": "1/4 tsp"
+  },
+  "description": "Brown the chicken first, then gently braise it with leeks for a creamy mustard and tarragon sauce.",
+  "steps": [
+   "Start the rice following its packet timings. Split the leek lengthways, rinse and thinly slice. On a separate board cut boneless chicken into roughly 3 cm pieces. Clean the board and wash your hands.",
+   "Heat oil in a frying pan. Brown the chicken on two sides and lift to a plate. Turn the heat down, add the leek and soften for 4–5 minutes, scraping up the browned bits with a splash of water.",
+   "Return the chicken and its juices. Add the mustard, tarragon and enough water to come part-way up the chicken. Cover and simmer gently until cooked through and steaming hot throughout, about 10–15 minutes.",
+   "Lift the lid and let the liquid reduce until there is just a spoonful or two per serving. Lower the heat, fold in the crème fraîche and spoon the sauce and chicken over the rice."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1 pinch",
+    "chives": "1 tsp"
+   },
+   "step": 4,
+   "method": "Stir the lemon zest into the warm cream sauce and snip chives over each serving."
+  },
+  "dinner": true,
+  "video": {
+   "youtubeId": "3Ai2n5QZn94",
+   "topic": "Creamy tarragon chicken"
+  }
+ },
+ {
+  "id": 142,
+  "name": "Sticky gochujang tofu noodles with carrot ribbons",
+  "category": "Vegetarian & vegan",
+  "cost": 2.4,
+  "time": 30,
+  "equip": [
+   "hob"
+  ],
+  "tags": [
+   "vegetarian",
+   "vegan"
+  ],
+  "ings": {
+   "tofu": "150 g",
+   "egg-free noodles": "75 g dry",
+   "carrot": "1 small",
+   "gochujang": "1 tsp",
+   "soy sauce": "1 tsp",
+   "brown sugar": "1 tsp",
+   "sesame seeds": "1 tsp"
+  },
+  "description": "Crisp tofu, ribbons of carrot and a sweet-hot glaze that clings to the noodles.",
+  "steps": [
+   "Pat firm tofu dry and tear it into bite-sized pieces. Use a peeler to make ribbons from the carrot, then finely chop the remaining core. Whisk vegan gochujang, soy sauce and brown sugar with two tablespoons of water per serving.",
+   "Toast the sesame seeds in a dry frying pan just until golden, then tip onto a plate. Add a little oil to the pan. Fry the tofu in a single layer for 8–10 minutes, turning once the undersides release easily.",
+   "Meanwhile cook the noodles according to the packet. Add carrot ribbons and chopped core for the last minute. Reserve a mug of noodle water and drain.",
+   "Turn the heat under the tofu to low. Pour in the glaze and toss until glossy. Fold in the noodles and carrot, loosening with a splash of noodle water. Finish with the toasted sesame seeds."
+  ],
+  "basics": [
+   "oil",
+   "water"
+  ],
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "rice vinegar": "1 tsp"
+   },
+   "step": 1,
+   "method": "Grate ginger into the glaze. Stir in vinegar and taste before adding more gochujang if you like it hotter."
+  },
+  "video": {
+   "youtubeId": "IlEkvAi2RuU",
+   "topic": "Crispy tofu with peanut sauce"
+  },
+  "dinner": true
  }
 ];
