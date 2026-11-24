@@ -26,7 +26,11 @@ const recipes = [
    "Drain the pasta carefully, keeping a splash of cooking water.",
    "Mix pasta with tomato sauce and a little reserved water. Sprinkle with grated cheese."
   ],
-  "note": "Take care draining boiling water."
+  "note": "Take care draining boiling water.",
+  "video": {
+   "youtubeId": "KPU2ZsuhhV0",
+   "topic": "Cheesy tomato pasta"
+  }
  },
  {
   "id": 2,
@@ -52,7 +56,11 @@ const recipes = [
    "Heat the beans in a saucepan, stirring until piping hot.",
    "Spoon beans over the toast and scatter grated cheese on top."
   ],
-  "note": "You can heat the beans in a microwave-safe bowl instead; follow pack instructions."
+  "note": "You can heat the beans in a microwave-safe bowl instead; follow pack instructions.",
+  "video": {
+   "youtubeId": "QwN2V9uXIoQ",
+   "topic": "Beans and cheese on toast"
+  }
  },
  {
   "id": 3,
@@ -81,7 +89,11 @@ const recipes = [
    "Push vegetables to one side, add beaten eggs and stir until fully set.",
    "Add rice and soy sauce; stir until everything is steaming hot."
   ],
-  "note": "For leftover rice, refrigerate quickly and use within 24 hours. Reheat only once until steaming hot."
+  "note": "For leftover rice, refrigerate quickly and use within 24 hours. Reheat only once until steaming hot.",
+  "video": {
+   "youtubeId": "tn0YTv4S9vI",
+   "topic": "Egg fried rice"
+  }
  },
  {
   "id": 4,
@@ -107,7 +119,11 @@ const recipes = [
    "Heat beans separately until piping hot, following package instructions.",
    "Carefully open the potato and add beans and cheese."
   ],
-  "note": "The potato will be very hot. Use an oven mitt and do not use foil in the microwave."
+  "note": "The potato will be very hot. Use an oven mitt and do not use foil in the microwave.",
+  "video": {
+   "youtubeId": "gmXlZbwrVdA",
+   "topic": "Cooking a jacket potato"
+  }
  },
  {
   "id": 5,
@@ -131,7 +147,11 @@ const recipes = [
    "Spread peanut butter over the bread.",
    "Slice the banana and arrange on top."
   ],
-  "note": "Contains peanuts and may contain other allergens depending on bread."
+  "note": "Contains peanuts and may contain other allergens depending on bread.",
+  "video": {
+   "youtubeId": "LYJ-dzpRUco",
+   "topic": "Peanut butter and banana toast"
+  }
  },
  {
   "id": 6,
@@ -156,7 +176,11 @@ const recipes = [
    "Add frozen peas for the final few minutes, ensuring they are fully cooked.",
    "Drain, then stir in pesto off the heat."
   ],
-  "note": "Check pesto labels: some contain animal rennet or nuts."
+  "note": "Check pesto labels: some contain animal rennet or nuts.",
+  "video": {
+   "youtubeId": "Umg-B82HyZE",
+   "topic": "Pea and pesto pasta"
+  }
  },
  {
   "id": 7,
@@ -181,7 +205,11 @@ const recipes = [
    "Microwave for 90 seconds, stir, then heat in shorter bursts until thick and bubbling. Watch to prevent overflowing.",
    "Leave to stand briefly, then top with sliced banana."
   ],
-  "note": "Use a large bowl as porridge can bubble over. Milk alternatives work too."
+  "note": "Use a large bowl as porridge can bubble over. Milk alternatives work too.",
+  "video": {
+   "youtubeId": "V5M_Bdoediw",
+   "topic": "Microwave porridge"
+  }
  },
  {
   "id": 8,
@@ -212,7 +240,11 @@ const recipes = [
    "Add drained kidney beans, tomatoes and a pinch of chilli powder.",
    "Simmer for 12–15 minutes until hot throughout. Serve over rice."
   ],
-  "note": "Use tinned, ready-cooked kidney beans. Never use uncooked dried kidney beans without proper soaking and boiling."
+  "note": "Use tinned, ready-cooked kidney beans. Never use uncooked dried kidney beans without proper soaking and boiling.",
+  "video": {
+   "youtubeId": "tJSuM6PtQy4",
+   "topic": "One-pot bean chilli"
+  }
  },
  {
   "id": 9,
@@ -240,7 +272,11 @@ const recipes = [
    "Air fry at 190°C for about 20–25 minutes, shaking halfway, until soft inside and golden outside.",
    "Scatter cheese on top and return briefly until melted."
   ],
-  "note": "Air fryer times vary. Ensure potatoes are cooked all the way through."
+  "note": "Air fryer times vary. Ensure potatoes are cooked all the way through.",
+  "video": {
+   "youtubeId": "DKfha8VL3ho",
+   "topic": "Air-fryer potato wedges"
+  }
  },
  {
   "id": 10,
@@ -264,7 +300,11 @@ const recipes = [
    "Drain the tuna and sweetcorn.",
    "Mix with pasta and mayonnaise. Serve warm or cool promptly before refrigerating."
   ],
-  "note": "Contains fish and potentially egg. Keep leftovers refrigerated and eat promptly."
+  "note": "Contains fish and potentially egg. Keep leftovers refrigerated and eat promptly.",
+  "video": {
+   "youtubeId": "VHgxM2El9O0",
+   "topic": "Tuna and sweetcorn pasta"
+  }
  },
  {
   "id": 11,
@@ -292,7 +332,11 @@ const recipes = [
    "Pour eggs into the pan and stir gently until completely set.",
    "Spoon eggs into a wrap, top with cheese and fold."
   ],
-  "note": "Cook eggs thoroughly if serving someone at higher risk from foodborne illness."
+  "note": "Cook eggs thoroughly if serving someone at higher risk from foodborne illness.",
+  "video": {
+   "youtubeId": "nFNqivhtQAg",
+   "topic": "Scrambled egg wraps"
+  }
  },
  {
   "id": 12,
@@ -321,7 +365,11 @@ const recipes = [
    "Add tomatoes, the stock cube and 200 ml water.",
    "Simmer for 10 minutes. Blend if you have a suitable blender, or leave chunky."
   ],
-  "note": "Allow hot soup to cool slightly before blending; never overfill a blender."
+  "note": "Allow hot soup to cool slightly before blending; never overfill a blender.",
+  "video": {
+   "youtubeId": "0ChtgzruCgs",
+   "topic": "Tomato soup"
+  }
  },
  {
   "id": 13,
@@ -347,7 +395,11 @@ const recipes = [
    "Top with the second wrap, cook until golden, then flip carefully.",
    "Cook until the cheese is melted. Cut into wedges."
   ],
-  "note": "The filling will be hot."
+  "note": "The filling will be hot.",
+  "video": {
+   "youtubeId": "Xy_djhH3WE4",
+   "topic": "Making a quesadilla"
+  }
  },
  {
   "id": 14,
@@ -377,7 +429,11 @@ const recipes = [
    "Drain canned chickpeas and sweetcorn, then stir into the couscous.",
    "Season as desired and serve."
   ],
-  "note": "Use ready-to-eat canned chickpeas and check the couscous packet instructions."
+  "note": "Use ready-to-eat canned chickpeas and check the couscous packet instructions.",
+  "video": {
+   "youtubeId": "eG9_u3gHYV4",
+   "topic": "Preparing couscous without a hob"
+  }
  },
  {
   "id": 15,
@@ -406,7 +462,11 @@ const recipes = [
    "Beat the egg and stir it into the simmering broth until fully cooked.",
    "Stir in soy sauce and serve."
   ],
-  "note": "Ensure egg is completely cooked before eating."
+  "note": "Ensure egg is completely cooked before eating.",
+  "video": {
+   "youtubeId": "H6SphXZSeeA",
+   "topic": "Spinach and egg noodle soup"
+  }
  },
  {
   "id": 16,
@@ -437,7 +497,11 @@ const recipes = [
    "Add curry powder and stir for 30 seconds.",
    "Add drained chickpeas and tomatoes and simmer for 12–15 minutes until piping hot. Serve with rice."
   ],
-  "note": "Adjust curry powder to taste; confirm packaged spice allergens."
+  "note": "Adjust curry powder to taste; confirm packaged spice allergens.",
+  "video": {
+   "youtubeId": "En7VUhewK1o",
+   "topic": "Tomato and chickpea curry"
+  }
  },
  {
   "id": 17,
@@ -462,7 +526,11 @@ const recipes = [
    "Microwave for 30 seconds, stir, then continue in 15–20 second bursts until fully set.",
    "Leave to stand briefly before eating."
   ],
-  "note": "Never microwave eggs in their shells. Times vary by microwave; egg must be fully cooked."
+  "note": "Never microwave eggs in their shells. Times vary by microwave; egg must be fully cooked.",
+  "video": {
+   "youtubeId": "wdhpRixWjv4",
+   "topic": "Microwave mug omelette"
+  }
  },
  {
   "id": 18,
@@ -489,7 +557,11 @@ const recipes = [
    "Heat a lightly oiled frying pan over medium-low heat.",
    "Spoon in small pancakes and cook a few minutes per side, until fully set and golden."
   ],
-  "note": "Cook until the centre is set and no raw egg mixture remains."
+  "note": "Cook until the centre is set and no raw egg mixture remains.",
+  "video": {
+   "youtubeId": "y8kvazx1C6I",
+   "topic": "Banana oat pancakes"
+  }
  },
  {
   "id": 19,
@@ -516,7 +588,11 @@ const recipes = [
    "Heat baked beans in a saucepan until piping hot.",
    "Combine everything in a bowl and serve."
   ],
-  "note": "Use freshly cooked rice, or follow safe chilled-rice handling rules."
+  "note": "Use freshly cooked rice, or follow safe chilled-rice handling rules.",
+  "video": {
+   "youtubeId": "UuK2RKlt23c",
+   "topic": "Baked beans and rice"
+  }
  },
  {
   "id": 20,
@@ -546,7 +622,11 @@ const recipes = [
    "Air fry at 190°C for 12–15 minutes, shaking halfway until hot and slightly crisp.",
    "Serve in a warm wrap."
   ],
-  "note": "Check your air fryer manual and avoid overfilling the basket."
+  "note": "Check your air fryer manual and avoid overfilling the basket.",
+  "video": {
+   "youtubeId": "hW_osGKPbdo",
+   "topic": "Air-fried chickpeas"
+  }
  },
  {
   "id": 21,
@@ -573,7 +653,11 @@ const recipes = [
    "Heat a little oil in a frying pan and cook the chicken until completely cooked through (75°C at its centre if using a food thermometer).",
    "Add tinned tomatoes and simmer for 5 minutes, then combine with drained pasta."
   ],
-  "note": "Never wash raw chicken. Keep raw chicken separate from ready-to-eat food and ensure it is thoroughly cooked."
+  "note": "Never wash raw chicken. Keep raw chicken separate from ready-to-eat food and ensure it is thoroughly cooked.",
+  "video": {
+   "youtubeId": "4ddqQiV3t8U",
+   "topic": "Chicken pasta in tomato sauce"
+  }
  },
  {
   "id": 22,
@@ -600,7 +684,11 @@ const recipes = [
    "Cook chicken in a hot pan with a little oil until completely cooked through (75°C at its centre if measured).",
    "Add frozen vegetables and cook until hot throughout. Add rice and soy sauce and stir-fry until steaming hot."
   ],
-  "note": "Do not wash raw chicken. Handle cooked rice safely; use freshly cooked rice or follow chilled rice storage guidance."
+  "note": "Do not wash raw chicken. Handle cooked rice safely; use freshly cooked rice or follow chilled rice storage guidance.",
+  "video": {
+   "youtubeId": "wGchwPHWvs4",
+   "topic": "Chicken fried rice"
+  }
  },
  {
   "id": 23,
@@ -627,7 +715,11 @@ const recipes = [
    "Cook until chicken is thoroughly cooked (75°C at its centre if measured).",
    "Place the chicken mixture in the wrap, add cheese, fold and warm briefly in the pan."
   ],
-  "note": "Keep raw chicken away from salads and ready-to-eat foods; cook fully before serving."
+  "note": "Keep raw chicken away from salads and ready-to-eat foods; cook fully before serving.",
+  "video": {
+   "youtubeId": "Ke1BgIBwxP0",
+   "topic": "Chicken and cheese wraps"
+  }
  },
  {
   "id": 24,
@@ -653,7 +745,11 @@ const recipes = [
    "Arrange potatoes and chicken in a single layer in your air fryer, keeping raw chicken away from any food being eaten uncooked.",
    "Cook at 190°C, turning and checking frequently, until potato is tender and chicken is thoroughly cooked (75°C at its centre). The exact time depends on your model and piece sizes."
   ],
-  "note": "Air fryer cooking times vary. Do not rely on colour alone to judge chicken doneness."
+  "note": "Air fryer cooking times vary. Do not rely on colour alone to judge chicken doneness.",
+  "video": {
+   "youtubeId": "Z7OQBydrvp4",
+   "topic": "Air-fryer chicken and potatoes"
+  }
  },
  {
   "id": 25,
@@ -680,7 +776,11 @@ const recipes = [
    "Cook noodles according to the packet instructions.",
    "Add frozen vegetables to the chicken pan and cook until hot; toss through noodles and soy sauce."
   ],
-  "note": "Avoid cross-contamination from raw chicken and cook it all the way through."
+  "note": "Avoid cross-contamination from raw chicken and cook it all the way through.",
+  "video": {
+   "youtubeId": "X-yTlCFuQTA",
+   "topic": "Chicken and vegetable noodles"
+  }
  },
  {
   "id": 26,
@@ -708,7 +808,11 @@ const recipes = [
    "Add the chicken and cook through, then add drained canned kidney beans, tomatoes and a little chilli powder.",
    "Simmer until piping hot throughout and chicken is completely cooked (75°C at its centre if using a thermometer)."
   ],
-  "note": "Use ready-cooked canned kidney beans. Never use inadequately cooked dried kidney beans."
+  "note": "Use ready-cooked canned kidney beans. Never use inadequately cooked dried kidney beans.",
+  "video": {
+   "youtubeId": "uBH5q8TIbFs",
+   "topic": "Chicken with chilli beans"
+  }
  },
  {
   "id": 27,
@@ -736,7 +840,11 @@ const recipes = [
    "Cut chicken into small even pieces on a separate board and clean hands and tools.",
    "Fry chicken in a little oil until completely cooked (75°C at its centre if measured), then combine with couscous and peas."
   ],
-  "note": "Chicken must be thoroughly cooked and kept separate from ready-to-eat ingredients until then."
+  "note": "Chicken must be thoroughly cooked and kept separate from ready-to-eat ingredients until then.",
+  "video": {
+   "youtubeId": "YvEuzZLk6zo",
+   "topic": "Chicken couscous"
+  }
  },
  {
   "id": 28,
@@ -762,7 +870,11 @@ const recipes = [
    "Put cooked chicken and cheese between the bread slices.",
    "Toast the sandwich in a clean pan over medium-low heat until golden and the cheese melts."
   ],
-  "note": "Ensure chicken is fully cooked before assembling the sandwich."
+  "note": "Ensure chicken is fully cooked before assembling the sandwich.",
+  "video": {
+   "youtubeId": "6cpTeKXXBYg",
+   "topic": "Chicken sandwich melt"
+  }
  },
  {
   "id": 29,
@@ -789,7 +901,11 @@ const recipes = [
    "Cook chicken in a hot pan with a little oil until thoroughly cooked (75°C at its centre if measured).",
    "Add beaten egg and stir until completely set, then mix through cooked noodles until hot."
   ],
-  "note": "Check chicken and egg are fully cooked, and keep raw chicken from contaminating other ingredients."
+  "note": "Check chicken and egg are fully cooked, and keep raw chicken from contaminating other ingredients.",
+  "video": {
+   "youtubeId": "FVHr4u9SXvQ",
+   "topic": "Chicken and egg stir-fried noodles"
+  }
  },
  {
   "id": 30,
@@ -816,7 +932,11 @@ const recipes = [
    "Fry chicken in a little oil until fully cooked (75°C at its centre if measured).",
    "Stir in tomatoes, simmer for 5 minutes and serve over freshly cooked rice."
   ],
-  "note": "Ensure chicken is fully cooked; refrigerate cooked rice promptly if saving leftovers."
+  "note": "Ensure chicken is fully cooked; refrigerate cooked rice promptly if saving leftovers.",
+  "video": {
+   "youtubeId": "m2xqFkXp7lw",
+   "topic": "One-pan Spanish chicken rice"
+  }
  },
  {
   "id": 31,
@@ -842,7 +962,11 @@ const recipes = [
    "Cut chicken on a separate board, clean hands and equipment, and pan-fry in a little oil until fully cooked (75°C at its centre if measured).",
    "Split the hot potato, add cooked chicken and grated cheese and serve."
   ],
-  "note": "Take care with hot potatoes, and never microwave foil. Do not undercook chicken."
+  "note": "Take care with hot potatoes, and never microwave foil. Do not undercook chicken.",
+  "video": {
+   "youtubeId": "8cXDyyqTCiE",
+   "topic": "Chicken and cheese baked potatoes"
+  }
  },
  {
   "id": 32,
@@ -869,7 +993,11 @@ const recipes = [
    "Add drained canned chickpeas, tomatoes and curry powder.",
    "Simmer together for 10 minutes, stirring, until thoroughly hot."
   ],
-  "note": "Use ready-cooked canned chickpeas and fully cook chicken. Check spice packaging for allergens."
+  "note": "Use ready-cooked canned chickpeas and fully cook chicken. Check spice packaging for allergens.",
+  "video": {
+   "youtubeId": "mYM_6sBL56c",
+   "topic": "Chicken and chickpea curry"
+  }
  },
  {
   "id": 33,
@@ -894,7 +1022,11 @@ const recipes = [
    "Thaw berries as instructed on their packet and add.",
    "Cover and refrigerate overnight; enjoy chilled."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "_LSIPkfDtbI",
+   "topic": "Berry overnight oats"
+  }
  },
  {
   "id": 34,
@@ -920,7 +1052,11 @@ const recipes = [
    "Dip bread into the mixture.",
    "Fry in a lightly oiled pan until golden and completely cooked through."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "MRdXBKe-DEI",
+   "topic": "Eggy bread"
+  }
  },
  {
   "id": 35,
@@ -944,7 +1080,11 @@ const recipes = [
    "Slice the banana and add.",
    "Sprinkle oats on top and enjoy immediately."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "616NQvhRF-U",
+   "topic": "Banana yoghurt bowl"
+  }
  },
  {
   "id": 36,
@@ -970,7 +1110,11 @@ const recipes = [
    "Pour over beaten eggs and cook on medium-low heat.",
    "Scatter over cheese and fold; ensure eggs are completely set."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Iek2V2mkcwg",
+   "topic": "Spinach and cheese omelette"
+  }
  },
  {
   "id": 37,
@@ -997,7 +1141,11 @@ const recipes = [
    "Grate apple into the mixture.",
    "Fry small pancakes in a little oil, turning, until fully set."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "cLPZOZBl0BE",
+   "topic": "Apple pancakes"
+  }
  },
  {
   "id": 38,
@@ -1024,7 +1172,11 @@ const recipes = [
    "Microwave in short bursts, checking regularly.",
    "Continue until fully set throughout; cool briefly before eating."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "wPU5zSOukPU",
+   "topic": "Microwave banana oat mug cake"
+  }
  },
  {
   "id": 39,
@@ -1052,7 +1204,11 @@ const recipes = [
    "Dice the apple.",
    "Top porridge with apple and peanut butter."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "EL5ZgRW0vQ0",
+   "topic": "Stovetop peanut butter porridge"
+  }
  },
  {
   "id": 40,
@@ -1078,7 +1234,11 @@ const recipes = [
    "Scramble the egg in a separate pan until completely set.",
    "Add both to a wrap and roll it up."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "L4Rax5oUYVE",
+   "topic": "Egg and bean breakfast burrito"
+  }
  },
  {
   "id": 41,
@@ -1101,7 +1261,11 @@ const recipes = [
    "Combine with mayonnaise.",
    "Spoon between slices of bread and eat promptly or refrigerate."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "JA-930RFSSE",
+   "topic": "Tuna mayo sandwich"
+  }
  },
  {
   "id": 42,
@@ -1127,7 +1291,11 @@ const recipes = [
    "Slice cucumber and grate carrot.",
    "Add the vegetables, roll and slice."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "6l7j30Q4LOM",
+   "topic": "Making a hummus wrap"
+  }
  },
  {
   "id": 43,
@@ -1154,7 +1322,11 @@ const recipes = [
    "Spread drained tomatoes on bread; add finely chopped onion and grated cheese.",
    "Cook until bubbling and golden."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "YYBEAYw9C54",
+   "topic": "Pizza toast"
+  }
  },
  {
   "id": 44,
@@ -1179,7 +1351,11 @@ const recipes = [
    "Drain and cool promptly if serving cold.",
    "Mix with drained tuna, sweetcorn and mayonnaise; refrigerate leftovers promptly."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "lUcglZZB3x0",
+   "topic": "Tuna pasta salad"
+  }
  },
  {
   "id": 45,
@@ -1204,7 +1380,11 @@ const recipes = [
    "Chop cucumber and tomato.",
    "Toss together and crumble feta over the bowl."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Fyfj5ozl-rI",
+   "topic": "Greek-style chickpea bowl"
+  }
  },
  {
   "id": 46,
@@ -1228,7 +1408,11 @@ const recipes = [
    "Spread pickle on one slice of bread.",
    "Add cheese, close sandwich and serve."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "2YCd65MJl1g",
+   "topic": "Cheddar and pickle sandwich"
+  }
  },
  {
   "id": 47,
@@ -1254,7 +1438,11 @@ const recipes = [
    "Drain sweetcorn and stir into cottage cheese.",
    "Split potato carefully and spoon on topping."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "A7v8SS1jPt0",
+   "topic": "Tuna and cottage cheese jacket potato"
+  }
  },
  {
   "id": 48,
@@ -1283,7 +1471,11 @@ const recipes = [
    "Mix peanut butter, soy sauce and warm water into a dressing.",
    "Mix with grated carrot and sliced cucumber; serve promptly."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "WrDsasF7SFY",
+   "topic": "Cold peanut noodle salad"
+  }
  },
  {
   "id": 49,
@@ -1310,7 +1502,11 @@ const recipes = [
    "Slice and fry mushrooms with garlic until softened.",
    "Stir cream cheese and a splash of pasta water into the mushrooms; toss with pasta."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "RGx8vBm1_Rk",
+   "topic": "Creamy mushroom pasta"
+  }
  },
  {
   "id": 50,
@@ -1338,7 +1534,11 @@ const recipes = [
    "Briefly warm chopped garlic in oil and add drained canned chickpeas.",
    "Toss with pasta, lemon juice and a splash of cooking water."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "gmtlO7FOb_c",
+   "topic": "Lemon chickpea pasta"
+  }
  },
  {
   "id": 51,
@@ -1365,7 +1565,11 @@ const recipes = [
    "Drain, keeping a little cooking water.",
    "Warm milk gently and melt in cheese; stir through pasta and broccoli."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "1KLO_rh81Rw",
+   "topic": "Cheesy broccoli pasta"
+  }
  },
  {
   "id": 52,
@@ -1393,7 +1597,11 @@ const recipes = [
    "Soften chopped onion in oil and add tomatoes and cooked lentils; simmer.",
    "Cook pasta separately and toss with the sauce."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "3naTK8bJmYM",
+   "topic": "Lentil spaghetti"
+  }
  },
  {
   "id": 53,
@@ -1421,7 +1629,11 @@ const recipes = [
    "Fry sliced mushrooms until soft and cook peas thoroughly.",
    "Combine with rice and soy sauce until steaming hot."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "DuEuBaVArL0",
+   "topic": "Mushroom fried rice"
+  }
  },
  {
   "id": 54,
@@ -1447,7 +1659,11 @@ const recipes = [
    "Wilt spinach in a pan.",
    "Toss cooked gnocchi and spinach with pesto; check the pesto ingredients for vegetarian suitability."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "zpElI5KA9cY",
+   "topic": "Gnocchi with spinach and pesto"
+  }
  },
  {
   "id": 55,
@@ -1475,7 +1691,11 @@ const recipes = [
    "Add dry rice, tomatoes, water and stock cube, following rice packet liquid guidance.",
    "Simmer covered until rice is cooked, stirring and adding water as needed."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "KDbZV4IXTH0",
+   "topic": "One-pot tomato rice"
+  }
  },
  {
   "id": 56,
@@ -1503,7 +1723,11 @@ const recipes = [
    "Soften onion in oil and stir in curry powder.",
    "Add lentils, tomatoes and enough water, then simmer as directed on the lentil pack until soft."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "9FzKK5FJa78",
+   "topic": "Red lentil dhal"
+  }
  },
  {
   "id": 57,
@@ -1531,7 +1755,11 @@ const recipes = [
    "Add tomatoes and drained ready-cooked chickpeas; simmer for 10 minutes.",
    "Stir in spinach and cook until wilted and piping hot."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "-7cmX2Jw1KI",
+   "topic": "Chickpea and spinach stew"
+  }
  },
  {
   "id": 58,
@@ -1559,7 +1787,11 @@ const recipes = [
    "Add drained ready-cooked black beans and heat thoroughly.",
    "Pile into warmed wraps."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "60VPqDlPN3o",
+   "topic": "Black bean fajitas"
+  }
  },
  {
   "id": 59,
@@ -1587,7 +1819,11 @@ const recipes = [
    "Roast for about 20 minutes until tender.",
    "Prepare couscous as directed and combine with vegetables and drained canned chickpeas."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "kRw_Dq5Qipw",
+   "topic": "Roasted vegetable couscous"
+  }
  },
  {
   "id": 60,
@@ -1615,7 +1851,11 @@ const recipes = [
    "Drain and cube tofu; pan-fry until golden.",
    "Cook frozen veg thoroughly and combine with rice, tofu and soy sauce."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "XORa7QtjRi8",
+   "topic": "Sweet and salty tofu rice bowl"
+  }
  },
  {
   "id": 61,
@@ -1643,7 +1883,11 @@ const recipes = [
    "Add drained canned kidney beans and tomatoes and heat thoroughly.",
    "Spoon into warmed wraps and fold."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "WNJ3hCxA6lY",
+   "topic": "Mushroom and bean tacos"
+  }
  },
  {
   "id": 62,
@@ -1670,7 +1914,11 @@ const recipes = [
    "Warm vegetables in a lightly oiled non-stick pan.",
    "Pour over beaten eggs and cheese; cover and cook until completely set."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "5NBzemfbzUc",
+   "topic": "Vegetable frittata"
+  }
  },
  {
   "id": 63,
@@ -1697,7 +1945,11 @@ const recipes = [
    "Add tomatoes and simmer for 10 minutes.",
    "Make two wells and add eggs; cover and cook until whites and yolks are fully set."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "618QsMaVXp8",
+   "topic": "Eggs poached in tomato sauce"
+  }
  },
  {
   "id": 64,
@@ -1723,7 +1975,11 @@ const recipes = [
    "Cook peas separately until fully heated.",
    "Drain most of the noodle water and mix in peas and cheese until melted."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Qfn1hrXtZP8",
+   "topic": "Microwave cheesy noodles"
+  }
  },
  {
   "id": 65,
@@ -1748,7 +2004,11 @@ const recipes = [
    "Mix drained tuna and sweetcorn with mayonnaise.",
    "Split hot potato and add cold topping; eat promptly."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "pKPG_9sdRNs",
+   "topic": "Tuna jacket potato filling"
+  }
  },
  {
   "id": 66,
@@ -1775,7 +2035,11 @@ const recipes = [
    "Add cheese and sweetcorn, then fold.",
    "Microwave in short bursts until piping hot and cheese melts."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "zMegJLUd8jQ",
+   "topic": "Making a pizza wrap"
+  }
  },
  {
   "id": 67,
@@ -1803,7 +2067,11 @@ const recipes = [
    "Heat drained canned beans, sweetcorn and tomatoes together in a suitable bowl until piping hot.",
    "Combine with cooked rice."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "ESJnmZJa9T8",
+   "topic": "Building a vegetarian burrito bowl"
+  }
  },
  {
   "id": 68,
@@ -1829,7 +2097,11 @@ const recipes = [
    "Toss in a little oil and paprika.",
    "Air fry at about 190°C for 18–22 minutes, shaking, until completely tender."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "JJDa58qNAKE",
+   "topic": "Air-fryer sweet potato wedges"
+  }
  },
  {
   "id": 69,
@@ -1856,7 +2128,11 @@ const recipes = [
    "Toss with cornflour and soy sauce.",
    "Air fry around 190°C for 12–15 minutes, shaking once, until crisp and hot through."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "ANNB_0dDdMc",
+   "topic": "Air-fryer tofu bites"
+  }
  },
  {
   "id": 70,
@@ -1883,7 +2159,11 @@ const recipes = [
    "Cover and leave for the indicated time, then fluff.",
    "Mix in chopped ready-to-eat sun-dried tomatoes and drained sweetcorn."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "K8fSbdH_H9I",
+   "topic": "Tomato couscous"
+  }
  },
  {
   "id": 71,
@@ -1910,7 +2190,11 @@ const recipes = [
    "Place noodles in a heatproof bowl and follow the packet steeping instructions.",
    "Mix through drained ready-to-eat canned chickpeas and washed spinach and serve hot."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "DOvP16A_bAA",
+   "topic": "Making instant cup noodles"
+  }
  },
  {
   "id": 72,
@@ -1935,7 +2219,11 @@ const recipes = [
    "Warm chopped garlic briefly with a little oil, add tomatoes and simmer for 8 minutes.",
    "Stir in drained canned tuna and warm through; mix with pasta."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "b4d5-sZ3icM",
+   "topic": "Tuna and tomato spaghetti"
+  }
  },
  {
   "id": 73,
@@ -1960,7 +2248,11 @@ const recipes = [
    "Cook salmon separately until opaque and it flakes easily, or reaches 63°C at the thickest point.",
    "Remove any bones and mix with pasta and cream cheese."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Np9SrVrGvCQ",
+   "topic": "Salmon and pea pasta"
+  }
  },
  {
   "id": 74,
@@ -1985,7 +2277,11 @@ const recipes = [
    "Mix in drained tuna and sweetcorn; shape into small patties and dust with flour.",
    "Pan-fry until golden and piping hot in the middle."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "2xvuAFIrRxA",
+   "topic": "Tuna fishcakes"
+  }
  },
  {
   "id": 75,
@@ -2009,7 +2305,11 @@ const recipes = [
    "Toast bread if possible.",
    "Spoon mixture onto toast and check for bones."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "rMf0JH7ewQw",
+   "topic": "Sardines on toast"
+  }
  },
  {
   "id": 76,
@@ -2033,7 +2333,11 @@ const recipes = [
    "Air fry wedges, then cook frozen fish fingers according to their packet directions until fully cooked.",
    "Prepare frozen peas separately according to packaging."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "nO42npMHUco",
+   "topic": "Air-fryer fish fingers and wedges"
+  }
  },
  {
   "id": 77,
@@ -2058,7 +2362,11 @@ const recipes = [
    "Cut chicken on a separate board and clean hands and utensils.",
    "Fry chicken until thoroughly cooked, ideally 75°C at its centre; add soy sauce and honey, then combine with noodles."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Cmc0TsCh89I",
+   "topic": "Honey soy chicken noodles"
+  }
  },
  {
   "id": 78,
@@ -2083,7 +2391,11 @@ const recipes = [
    "Dice carrot and potato; simmer in stock for 12 minutes.",
    "Add small chicken pieces and continue cooking until vegetables are soft and chicken is fully cooked, ideally 75°C at its centre."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "fU5ifsXOoFw",
+   "topic": "Chicken and vegetable soup"
+  }
  },
  {
   "id": 79,
@@ -2109,7 +2421,11 @@ const recipes = [
    "Pan-fry chicken until fully cooked, ideally 75°C at its centre, and wilt spinach.",
    "Toss hot pasta with chicken, spinach and pesto."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "h8Ywf3b4D2o",
+   "topic": "Chicken pesto pasta"
+  }
  },
  {
   "id": 80,
@@ -2134,7 +2450,11 @@ const recipes = [
    "Set aside, soften diced onion, then add beans and tomatoes.",
    "Slice cooked sausages and stir through; simmer until piping hot."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "TC450P65xPw",
+   "topic": "White bean and sausage skillet"
+  }
  },
  {
   "id": 81,
@@ -2159,7 +2479,11 @@ const recipes = [
    "Fry diced onion and beef mince, breaking it up until it is fully cooked.",
    "Add tomatoes and simmer for 10 minutes; serve over rice."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "Fuc9tD5Hq-g",
+   "topic": "One-pan minced beef and rice"
+  }
  },
  {
   "id": 82,
@@ -2184,7 +2508,11 @@ const recipes = [
    "Add drained ready-cooked kidney beans and tomatoes; simmer until piping hot.",
    "Spoon into a warmed wrap and roll."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "F2qYQZ7Q68s",
+   "topic": "Beef and bean burritos"
+  }
  },
  {
   "id": 83,
@@ -2209,7 +2537,11 @@ const recipes = [
    "Serve alongside peanut butter for dipping.",
    "Scatter on oats if wanted; check packaging for peanut allergens."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "6FQwIJFhf_k",
+   "topic": "Preparing an apple and granola snack"
+  }
  },
  {
   "id": 84,
@@ -2234,7 +2566,11 @@ const recipes = [
    "Blend until smooth.",
    "Serve promptly and refrigerate if not drinking immediately."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "gO566XGr_F4",
+   "topic": "Cocoa banana smoothie"
+  }
  },
  {
   "id": 85,
@@ -2258,7 +2594,11 @@ const recipes = [
    "Spoon yoghurt into a bowl or container.",
    "Top with berries and sliced banana, keeping chilled until eaten."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "aYwkYRm12QM",
+   "topic": "Berry yoghurt parfait"
+  }
  },
  {
   "id": 86,
@@ -2285,7 +2625,11 @@ const recipes = [
    "Boil eggs until fully cooked, cool, peel and chop.",
    "Combine with mayonnaise and diced cucumber; refrigerate promptly if not eating immediately."
   ],
-  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices."
+  "note": "Check packaging, allergens and food safety guidance. Prices are illustrative UK estimates, not live supermarket prices.",
+  "video": {
+   "youtubeId": "I4Sno4zeF9g",
+   "topic": "Potato salad with egg and mayo"
+  }
  },
  {
   "id": 87,
@@ -2314,7 +2658,11 @@ const recipes = [
    "Heat a little oil in a frying pan and fry the chicken pieces, turning to brown them. Stir in the garlic and curry powder for 30 seconds.",
    "Add a splash of water and simmer, stirring, until the chicken is thoroughly cooked and the sauce lightly coats it. Spoon over the freshly cooked rice."
   ],
-  "note": "Keep raw chicken separate from ready-to-eat food. Cook chicken to 75°C at the centre for 30 seconds. If you do not have a thermometer, check that it is steaming hot throughout, there is no pink meat and the juices run clear."
+  "note": "Keep raw chicken separate from ready-to-eat food. Cook chicken to 75°C at the centre for 30 seconds. If you do not have a thermometer, check that it is steaming hot throughout, there is no pink meat and the juices run clear.",
+  "video": {
+   "youtubeId": "iIDRzRRDvTQ",
+   "topic": "Chicken curry served with rice"
+  }
  },
  {
   "id": 101,
@@ -2346,7 +2694,11 @@ const recipes = [
    "oil",
    "salt",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "jM8K0eFvatE",
+   "topic": "Tomato and basil spaghetti"
+  }
  },
  {
   "id": 102,
@@ -2375,7 +2727,11 @@ const recipes = [
    "oil",
    "water",
    "salt"
-  ]
+  ],
+  "video": {
+   "youtubeId": "yZOsSAzMerc",
+   "topic": "One-pan golden chicken pilaf"
+  }
  },
  {
   "id": 103,
@@ -2405,7 +2761,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "GhnUZab5Vjc",
+   "topic": "Coconut chickpea curry"
+  }
  },
  {
   "id": 104,
@@ -2431,7 +2791,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "-CCGt_GDO8Y",
+   "topic": "Lemon chicken traybake"
+  }
  },
  {
   "id": 105,
@@ -2463,7 +2827,11 @@ const recipes = [
    "oil",
    "salt",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "6gH0Gjb8rq8",
+   "topic": "Smoky bean tacos"
+  }
  },
  {
   "id": 106,
@@ -2493,7 +2861,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "8ak3lUxy_yU",
+   "topic": "Creamy mushroom risotto"
+  }
  },
  {
   "id": 107,
@@ -2524,7 +2896,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "wFgwyEXsjYk",
+   "topic": "Red lentil and carrot soup"
+  }
  },
  {
   "id": 108,
@@ -2552,7 +2928,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "gIc-8VoATHA",
+   "topic": "Tuna tomato pasta bake"
+  }
  },
  {
   "id": 109,
@@ -2580,7 +2960,11 @@ const recipes = [
   "basics": [
    "oil",
    "salt"
-  ]
+  ],
+  "video": {
+   "youtubeId": "LSMyhBGSZRs",
+   "topic": "Potato frittata"
+  }
  },
  {
   "id": 110,
@@ -2608,7 +2992,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "TsYR_WVHofU",
+   "topic": "Making a salmon rice bowl"
+  }
  },
  {
   "id": 111,
@@ -2635,7 +3023,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "QYkewU1Flyk",
+   "topic": "Oven-roasted sausages and peppers"
+  }
  },
  {
   "id": 112,
@@ -2665,7 +3057,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "3f9MiJJ0-dM",
+   "topic": "Vegan garlic noodles"
+  }
  },
  {
   "id": 113,
@@ -2696,7 +3092,11 @@ const recipes = [
    "oil",
    "salt",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "KjqdeTk_6Rc",
+   "topic": "White beans on toast"
+  }
  },
  {
   "id": 114,
@@ -2726,7 +3126,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "WMAmZjZOqw4",
+   "topic": "Spiced cauliflower and lentil bowl"
+  }
  },
  {
   "id": 115,
@@ -2754,7 +3158,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "15YmFitnMms",
+   "topic": "Spinach and feta baked eggs"
+  }
  },
  {
   "id": 116,
@@ -2785,7 +3193,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "IlEkvAi2RuU",
+   "topic": "Crispy tofu with peanut sauce"
+  }
  },
  {
   "id": 117,
@@ -2814,7 +3226,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "95rQbk_prDA",
+   "topic": "Sweetcorn fritters"
+  }
  },
  {
   "id": 118,
@@ -2843,7 +3259,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "hCjvZKemESQ",
+   "topic": "Black bean and sweet potato boats"
+  }
  },
  {
   "id": 119,
@@ -2868,7 +3288,11 @@ const recipes = [
    "Thinly slice the chicken and add it to the simmering stock. Wash hands and utensils, then simmer for 8–10 minutes.",
    "Add noodles and corn, following the noodle timing. Check the chicken is steaming hot throughout with no pink meat before serving."
   ],
-  "basics": []
+  "basics": [],
+  "video": {
+   "youtubeId": "ecAARbkKs-4",
+   "topic": "Chicken and sweetcorn noodle soup"
+  }
  },
  {
   "id": 120,
@@ -2898,7 +3322,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "eG9_u3gHYV4",
+   "topic": "Preparing couscous without a hob"
+  }
  },
  {
   "id": 121,
@@ -2927,7 +3355,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "TaOcIfvAFoQ",
+   "topic": "Creamy butter bean skillet"
+  }
  },
  {
   "id": 122,
@@ -2952,7 +3384,11 @@ const recipes = [
    "Stir in oats, milk, yoghurt and cinnamon. Cover and refrigerate for at least 6 hours.",
    "Stir and loosen with a splash of milk before eating. Keep chilled."
   ],
-  "basics": []
+  "basics": [],
+  "video": {
+   "youtubeId": "B20Xelwc3Js",
+   "topic": "Apple crumble overnight oats"
+  }
  },
  {
   "id": 123,
@@ -2976,7 +3412,11 @@ const recipes = [
    "Fold parchment into a secure parcel weighed down by the contents. Use only if the air fryer manufacturer permits parchment.",
    "Cook at 180°C for 12–16 minutes, depending on thickness. Open carefully and check fish is opaque and flakes easily throughout."
   ],
-  "basics": []
+  "basics": [],
+  "video": {
+   "youtubeId": "pIRt_buqMeY",
+   "topic": "Air-fryer fish parcels"
+  }
  },
  {
   "id": 124,
@@ -3005,7 +3445,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "1Za3OM8tyow",
+   "topic": "Creamy pea gnocchi"
+  }
  },
  {
   "id": 125,
@@ -3035,7 +3479,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "iANhmhTyugU",
+   "topic": "Harissa chickpea flatbreads"
+  }
  },
  {
   "id": 126,
@@ -3062,7 +3510,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "gdQXHFDakHc",
+   "topic": "One-pot sausage orzo"
+  }
  },
  {
   "id": 127,
@@ -3088,7 +3540,11 @@ const recipes = [
    "Simmer 10 minutes, add florets, then simmer another 6–8 minutes until tender.",
    "Mash for a chunky soup, or cool slightly and blend with a stick blender. Stir in grated vegetarian cheddar off the heat."
   ],
-  "basics": []
+  "basics": [],
+  "video": {
+   "youtubeId": "hWjmVnndCyU",
+   "topic": "Broccoli cheddar soup"
+  }
  },
  {
   "id": 128,
@@ -3120,7 +3576,11 @@ const recipes = [
    "oil",
    "salt",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "POOStukXx1k",
+   "topic": "Spanish chickpea and potato stew"
+  }
  },
  {
   "id": 129,
@@ -3148,7 +3608,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "DyC_f2qhC-s",
+   "topic": "Cheesy mashed potato cakes"
+  }
  },
  {
   "id": 130,
@@ -3176,7 +3640,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "tJVC9anCirg",
+   "topic": "Pear and cinnamon porridge"
+  }
  },
  {
   "id": 131,
@@ -3206,7 +3674,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "c1oet_nIBaw",
+   "topic": "Cold cucumber and sesame noodles"
+  }
  },
  {
   "id": 132,
@@ -3233,7 +3705,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "9PDc41_Rqwk",
+   "topic": "Chicken pitta pockets"
+  }
  },
  {
   "id": 133,
@@ -3263,7 +3739,11 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "78ENTFiAqtw",
+   "topic": "Cooking fluffy couscous"
+  }
  },
  {
   "id": 134,
@@ -3292,7 +3772,11 @@ const recipes = [
   ],
   "basics": [
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "gWUkJpF7vn4",
+   "topic": "Air-fryer apple crumble"
+  }
  },
  {
   "id": 135,
@@ -3317,7 +3801,11 @@ const recipes = [
   ],
   "basics": [
    "oil"
-  ]
+  ],
+  "video": {
+   "youtubeId": "F1r3gnh7P7o",
+   "topic": "Sardine and bean salad"
+  }
  },
  {
   "id": 136,
@@ -3347,6 +3835,10 @@ const recipes = [
   "basics": [
    "oil",
    "water"
-  ]
+  ],
+  "video": {
+   "youtubeId": "WbXNK4R2eyw",
+   "topic": "Roasted pepper and feta couscous"
+  }
  }
 ];
