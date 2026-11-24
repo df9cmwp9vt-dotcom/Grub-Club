@@ -38,7 +38,9 @@ function card({r,missing,have,priority}){
 function empty(title,copy,attrs='',cta=''){return `<div class="empty"><span class="empty-icon">${icon('basket')}</span><h3>${esc(title)}</h3><p>${esc(copy)}</p>${attrs?`<button class="outline" ${attrs}>${esc(cta)}</button>`:''}</div>`}
 const heading=(pre,title,desc)=>`<div class="page-head"><div class="eyebrow">${esc(pre)}</div><h1>${esc(title)}</h1><p>${esc(desc)}</p></div>`;
 function results(){
-  $('pantrySummary').textContent=state.ingredients.length?`${state.ingredients.length} ingredients in your kitchen. Recommended sorting puts pantry matches first.`:'Find dinner with the ingredients you already have.';
+  const pantryCount=state.ingredients.length;
+  $('pantrySummary').hidden=pantryCount===0;
+  $('pantrySummary').textContent=pantryCount===1?'1 ingredient in your kitchen.':pantryCount+' ingredients in your kitchen.';
   $('collections').innerHTML=collections.map(([k,v])=>`<button class="chip" data-collection="${k}" aria-pressed="${state.collection===k}">${v}</button>`).join('');
   const count=Object.keys(defaults).filter(k=>defaults[k]!==state.filters[k]).length;$('filterN').textContent=count?`(${count})`:'';
   const rows=ranked(state);$('resultCount').textContent=`${rows.length} recipes${state.ingredients.length?' · '+rows.filter(x=>!x.missing.length).length+' ready to cook':''}`;
