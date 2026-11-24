@@ -1,7 +1,7 @@
 'use strict';
 const root = self.registration.scope;
 const family = 'grubclub-' + new URL(root).pathname + '-';
-const version = family + 'quick-plates-v4-visible-guide';
+const version = family + 'quick-plates-v5-kitchen-photography';
 const shell = ['index.html','guide.html','styles.css','app.js','recipes.js','kitchen.js','icon.svg','manifest.webmanifest','app-192.png','app-512.png','images/101.jpg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(version).then(cache => cache.addAll(shell.map(path => new Request(new URL(path, root), {cache:'reload'})))).then(() => self.skipWaiting()));
@@ -24,7 +24,7 @@ self.addEventListener('fetch', event => {
       if (saved) return saved;
     }
     try {
-      const result = await fetch(request, refresh ? {cache:'no-cache'} : {});
+      const result = await fetch(request, {cache:'no-cache'});
       if (result.ok && result.type !== 'opaque') {
         try { await cache.put(key, result.clone()); } catch {}
       } else if (result.status >= 500) {
