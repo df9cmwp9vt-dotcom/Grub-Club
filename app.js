@@ -184,7 +184,7 @@ document.addEventListener('submit',event=>{if(event.target.id!=='pantryForm')ret
 document.addEventListener('change',event=>{const t=event.target;if(t.id==='sort'){state.sort=t.value;state.visible=12;results()}else if(t.matches('[data-check]')){state.shopping[Number(t.dataset.check)].done=t.checked;shopSave()}});
 $('sheet').addEventListener('close',()=>{state.dialog='';if(opener?.isConnected)opener.focus({preventScroll:true})});
 $('sheet').addEventListener('click',e=>{if(e.target!==$('sheet'))return;const b=$('sheet').getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)closeSheet()});
-document.querySelectorAll('[data-icon]').forEach(el=>el.innerHTML=icon(el.dataset.icon));page('discover',false);
+document.querySelectorAll('[data-icon]').forEach(el=>el.innerHTML=icon(el.dataset.icon));page(new URLSearchParams(location.search).get('view')==='pantry'?'pantry':'discover',false);
 const initialId=Number(new URLSearchParams(location.search).get('recipe'));if(byId.has(initialId))openRecipe(initialId);
 
 if(typeof navigator!=='undefined'&&'serviceWorker' in navigator&&location.protocol==='https:'){navigator.serviceWorker.register('./sw.js').catch(()=>{});}
