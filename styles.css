@@ -27,3 +27,6 @@ img.image-offline{object-fit:contain;padding:12%;background:#e6ebdf}.note h3{fon
 .supermarket .actions{align-items:flex-end}
 .supermarket .actions small{display:block;max-width:24ch;margin-bottom:.4rem}
 .supermarket a.outline{display:inline-flex;text-decoration:none}
+
+.item-tools{display:flex;align-items:center;gap:.5rem}.item-tools a{color:var(--leaf)}
+@media(max-width:600px){.shoprow{flex-wrap:wrap}.shoprow .item-tools{order:1;width:100%;padding-left:2rem}.item-tools a,.item-tools button{display:inline-flex;align-items:center;min-height:44px}}
