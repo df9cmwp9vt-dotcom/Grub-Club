@@ -22,3 +22,8 @@ img.image-offline{object-fit:contain;padding:12%;background:#e6ebdf}.note h3{fon
 .guide-steps li{padding-left:.2rem;color:#3d5041;font-size:1rem;line-height:1.45}.guide-steps li::marker{color:var(--leaf);font-weight:750}
 .guide-steps strong{display:block;color:var(--ink);margin-bottom:.12rem}
 @media(max-width:700px){.quick-guide{padding:1rem;margin:12px 0 24px;display:grid;gap:.85rem}.guide-heading{display:contents}.guide-heading h2{font-size:1.4rem}.guide-heading .outline{grid-row:3;justify-self:start}.guide-steps{grid-row:2;grid-template-columns:1fr;gap:.7rem;margin:0}.guide-steps strong{display:inline}}
+
+.supermarket{margin-top:1rem}
+.supermarket .actions{align-items:flex-end}
+.supermarket .actions small{display:block;max-width:24ch;margin-bottom:.4rem}
+.supermarket a.outline{display:inline-flex;text-decoration:none}
