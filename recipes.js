@@ -30,6 +30,14 @@ const recipes = [
   "video": {
    "youtubeId": "KPU2ZsuhhV0",
    "topic": "Cheesy tomato pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Rub oregano between your fingers over the tomatoes. Add chilli flakes and crush the tomatoes with your spoon as they soften."
   }
  },
  {
@@ -60,6 +68,14 @@ const recipes = [
   "video": {
    "youtubeId": "QwN2V9uXIoQ",
    "topic": "Beans and cheese on toast"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "cider vinegar": "1/2 tsp"
+   },
+   "step": 2,
+   "method": "Stir paprika into the hot beans and mash a spoonful against the pan. Finish with vinegar to balance their sweetness."
   }
  },
  {
@@ -93,6 +109,14 @@ const recipes = [
   "video": {
    "youtubeId": "tn0YTv4S9vI",
    "topic": "Egg fried rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "spring onion": "1 small"
+   },
+   "step": 2,
+   "method": "Grate the ginger and finely slice the spring onion. Fry the ginger and onion whites with the veg until fragrant. Save the greens for the bowl."
   }
  },
  {
@@ -123,6 +147,14 @@ const recipes = [
   "video": {
    "youtubeId": "gmXlZbwrVdA",
    "topic": "Cooking a jacket potato"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "chives": "1 tsp"
+   },
+   "step": 3,
+   "method": "Swirl paprika into the beans. Snip chives over the potato once the cheese starts to melt."
   }
  },
  {
@@ -151,6 +183,14 @@ const recipes = [
   "video": {
    "youtubeId": "LYJ-dzpRUco",
    "topic": "Peanut butter and banana toast"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1 pinch",
+    "orange zest": "1 pinch"
+   },
+   "step": 3,
+   "method": "Dust the banana with cinnamon. Grate just the orange skin over the top, stopping before the white pith."
   }
  },
  {
@@ -180,6 +220,14 @@ const recipes = [
   "video": {
    "youtubeId": "Umg-B82HyZE",
    "topic": "Pea and pesto pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "fresh mint": "3 leaves"
+   },
+   "step": 3,
+   "method": "Crush a few peas against the side of the pan to thicken the pesto. Fold in lemon zest and finely sliced mint off the heat."
   }
  },
  {
@@ -209,6 +257,13 @@ const recipes = [
   "video": {
    "youtubeId": "V5M_Bdoediw",
    "topic": "Microwave porridge"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cardamom": "1 pinch"
+   },
+   "step": 1,
+   "method": "Stir cardamom into the cold milk and mash half the banana into the oats. Save the rest to slice over the top."
   }
  },
  {
@@ -244,6 +299,14 @@ const recipes = [
   "video": {
    "youtubeId": "tJSuM6PtQy4",
    "topic": "One-pot bean chilli"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Stir cumin and paprika through the softened onion for 20 seconds. As soon as they smell toasted, add the tomatoes."
   }
  },
  {
@@ -276,6 +339,14 @@ const recipes = [
   "video": {
    "youtubeId": "DKfha8VL3ho",
    "topic": "Air-fryer potato wedges"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried rosemary": "1/4 tsp",
+    "garlic granules": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Crush rosemary as finely as you can and toss it with the garlic and oiled wedges. Spread the wedges apart so their edges crisp."
   }
  },
  {
@@ -304,6 +375,14 @@ const recipes = [
   "video": {
    "youtubeId": "VHgxM2El9O0",
    "topic": "Tuna and sweetcorn pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh dill": "1 tsp",
+    "lemon juice": "1 tsp"
+   },
+   "step": 2,
+   "method": "Chop dill and stir it into the mayonnaise with lemon juice before folding through the tuna. Leave a few larger flakes for texture."
   }
  },
  {
@@ -336,6 +415,14 @@ const recipes = [
   "video": {
    "youtubeId": "nFNqivhtQAg",
    "topic": "Scrambled egg wraps"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chives": "1 tsp",
+    "smoked paprika": "1 pinch"
+   },
+   "step": 1,
+   "method": "Whisk paprika into the eggs. Snip the chives over the filling just before rolling."
   }
  },
  {
@@ -369,6 +456,14 @@ const recipes = [
   "video": {
    "youtubeId": "0ChtgzruCgs",
    "topic": "Tomato soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "smoked paprika": "1 pinch"
+   },
+   "step": 1,
+   "method": "Rub thyme into the softened onion. Add paprika and stir briefly before the tomatoes go in."
   }
  },
  {
@@ -399,6 +494,14 @@ const recipes = [
   "video": {
    "youtubeId": "Xy_djhH3WE4",
    "topic": "Making a quesadilla"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Season the drained tomato with oregano and paprika. Spread it thinly so the wrap crisps without getting soggy."
   }
  },
  {
@@ -433,6 +536,14 @@ const recipes = [
   "video": {
    "youtubeId": "eG9_u3gHYV4",
    "topic": "Preparing couscous without a hob"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Lift the grains apart with a fork and fold in the zest while warm. Toss in chopped parsley with the chickpeas."
   }
  },
  {
@@ -466,6 +577,14 @@ const recipes = [
   "video": {
    "youtubeId": "H6SphXZSeeA",
    "topic": "Spinach and egg noodle soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "toasted sesame oil": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 4,
+   "method": "Mix sesame oil and chilli flakes with the soy before tossing through the noodles. Use a spoonful of noodle water to spread the dressing."
   }
  },
  {
@@ -501,6 +620,14 @@ const recipes = [
   "video": {
    "youtubeId": "En7VUhewK1o",
    "topic": "Tomato and chickpea curry"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "ground cumin": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Grate the ginger into the softened onion. Stir until fragrant, then add the cumin with the curry powder."
   }
  },
  {
@@ -530,6 +657,14 @@ const recipes = [
   "video": {
    "youtubeId": "wdhpRixWjv4",
    "topic": "Microwave mug omelette"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chives": "1 tsp",
+    "ground nutmeg": "1 pinch"
+   },
+   "step": 1,
+   "method": "Whisk nutmeg and snipped chives evenly through the egg mixture before microwaving."
   }
  },
  {
@@ -561,6 +696,14 @@ const recipes = [
   "video": {
    "youtubeId": "y8kvazx1C6I",
    "topic": "Banana oat pancakes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1/4 tsp",
+    "vanilla extract": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Stir cinnamon and vanilla through the batter. Leave it to thicken while your pan warms so the pancakes hold their shape."
   }
  },
  {
@@ -592,6 +735,14 @@ const recipes = [
   "video": {
    "youtubeId": "UuK2RKlt23c",
    "topic": "Baked beans and rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "cider vinegar": "1/2 tsp"
+   },
+   "step": 3,
+   "method": "Mash a few beans into their sauce with paprika. Add vinegar a few drops at a time until the sauce tastes bright."
   }
  },
  {
@@ -626,6 +777,14 @@ const recipes = [
   "video": {
    "youtubeId": "hW_osGKPbdo",
    "topic": "Air-fried chickpeas"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "lemon zest": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Add ground coriander to the spice coating. Scatter lemon zest over the chickpeas after cooking to keep its aroma fresh."
   }
  },
  {
@@ -657,6 +816,14 @@ const recipes = [
   "video": {
    "youtubeId": "4ddqQiV3t8U",
    "topic": "Chicken pasta in tomato sauce"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "fresh basil": "3 leaves"
+   },
+   "step": 4,
+   "method": "Simmer oregano with the tomatoes, scraping the browned chicken juices into the sauce. Tear basil over the finished pasta."
   }
  },
  {
@@ -688,6 +855,14 @@ const recipes = [
   "video": {
    "youtubeId": "wGchwPHWvs4",
    "topic": "Chicken fried rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "spring onion": "1 small"
+   },
+   "step": 3,
+   "method": "Finely slice spring onion. Stir the whites and grated ginger into the chicken for the final minute of frying. Scatter the greens over the rice."
   }
  },
  {
@@ -719,6 +894,14 @@ const recipes = [
   "video": {
    "youtubeId": "Ke1BgIBwxP0",
    "topic": "Chicken and cheese wraps"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "ground cumin": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Coat the chicken and onion in paprika and cumin. Add a teaspoon of water if the spices begin to stick."
   }
  },
  {
@@ -749,6 +932,14 @@ const recipes = [
   "video": {
    "youtubeId": "Z7OQBydrvp4",
    "topic": "Air-fryer chicken and potatoes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried rosemary": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Crush rosemary into the oil for the wedges. Dust the chicken with paprika before it goes in the basket."
   }
  },
  {
@@ -780,6 +971,14 @@ const recipes = [
   "video": {
    "youtubeId": "X-yTlCFuQTA",
    "topic": "Chicken and vegetable noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "garlic": "1/2 clove"
+   },
+   "step": 2,
+   "method": "Finely grate ginger and garlic. Push the chicken aside and stir them in the pan juices for 20 seconds before mixing through."
   }
  },
  {
@@ -812,6 +1011,14 @@ const recipes = [
   "video": {
    "youtubeId": "uBH5q8TIbFs",
    "topic": "Chicken with chilli beans"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "dried oregano": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Add cumin and crushed oregano once the onion is soft. Stir for a few seconds to scent the oil."
   }
  },
  {
@@ -844,6 +1051,14 @@ const recipes = [
   "video": {
    "youtubeId": "YvEuzZLk6zo",
    "topic": "Chicken couscous"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 1,
+   "method": "Fluff the warm couscous with lemon zest. Chop the parsley, stalks and all, and fold it in with the peas."
   }
  },
  {
@@ -874,6 +1089,14 @@ const recipes = [
   "video": {
    "youtubeId": "6cpTeKXXBYg",
    "topic": "Chicken sandwich melt"
+  },
+  "seasoning": {
+   "ingredients": {
+    "Dijon mustard": "1/2 tsp",
+    "dried thyme": "1 pinch"
+   },
+   "step": 3,
+   "method": "Spread a thin layer of mustard inside the bread and crumble thyme over the cheese before closing the sandwich."
   }
  },
  {
@@ -905,6 +1128,14 @@ const recipes = [
   "video": {
    "youtubeId": "FVHr4u9SXvQ",
    "topic": "Chicken and egg stir-fried noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "ground white pepper": "1 pinch"
+   },
+   "step": 3,
+   "method": "Grate the ginger into the pan juices towards the end of frying. Beat the white pepper into the egg before adding it."
   }
  },
  {
@@ -936,6 +1167,14 @@ const recipes = [
   "video": {
    "youtubeId": "m2xqFkXp7lw",
    "topic": "One-pan Spanish chicken rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "dried thyme": "1 pinch"
+   },
+   "step": 3,
+   "method": "Stir paprika and thyme into the chicken juices. Add the tomatoes promptly and scrape the base of the pan to loosen the browned bits."
   }
  },
  {
@@ -966,6 +1205,14 @@ const recipes = [
   "video": {
    "youtubeId": "8cXDyyqTCiE",
    "topic": "Chicken and cheese baked potatoes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chives": "1 tsp",
+    "Dijon mustard": "1/2 tsp"
+   },
+   "step": 3,
+   "method": "Before filling, fluff the potato flesh with a fork and fold in the mustard. Finish with snipped chives over the cheese."
   }
  },
  {
@@ -997,6 +1244,14 @@ const recipes = [
   "video": {
    "youtubeId": "mYM_6sBL56c",
    "topic": "Chicken and chickpea curry"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "fresh ginger": "1/2 tsp"
+   },
+   "step": 3,
+   "method": "Grate ginger straight into the tomato sauce and stir in ground coriander. Crush a spoonful of chickpeas to give the sauce body."
   }
  },
  {
@@ -1026,6 +1281,14 @@ const recipes = [
   "video": {
    "youtubeId": "_LSIPkfDtbI",
    "topic": "Berry overnight oats"
+  },
+  "seasoning": {
+   "ingredients": {
+    "vanilla extract": "1/4 tsp",
+    "lemon zest": "1 pinch"
+   },
+   "step": 1,
+   "method": "Stir vanilla and finely grated lemon zest into the yoghurt mixture. Crush a few prepared berries before folding them through for a ripple."
   }
  },
  {
@@ -1056,6 +1319,14 @@ const recipes = [
   "video": {
    "youtubeId": "MRdXBKe-DEI",
    "topic": "Eggy bread"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1/4 tsp",
+    "vanilla extract": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Whisk cinnamon and vanilla into the milk and egg. Give it another stir between slices so the spice stays evenly distributed."
   }
  },
  {
@@ -1084,6 +1355,14 @@ const recipes = [
   "video": {
    "youtubeId": "616NQvhRF-U",
    "topic": "Banana yoghurt bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "orange zest": "1/4 tsp",
+    "ground cardamom": "1 pinch"
+   },
+   "step": 1,
+   "method": "Stir cardamom and orange zest into the yoghurt, then mash a few slices of the banana through it. Leave the rest for the topping."
   }
  },
  {
@@ -1114,6 +1393,14 @@ const recipes = [
   "video": {
    "youtubeId": "Iek2V2mkcwg",
    "topic": "Spinach and cheese omelette"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground nutmeg": "1 pinch",
+    "chives": "1 tsp"
+   },
+   "step": 1,
+   "method": "Season the wilted spinach with nutmeg and cook off any liquid. Snip chives into the beaten eggs."
   }
  },
  {
@@ -1145,6 +1432,14 @@ const recipes = [
   "video": {
    "youtubeId": "cLPZOZBl0BE",
    "topic": "Apple pancakes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1/4 tsp",
+    "ground ginger": "1 pinch"
+   },
+   "step": 2,
+   "method": "Fold the spices through the grated apple batter. Make the pancakes small so the apple softens before the outside browns."
   }
  },
  {
@@ -1176,6 +1471,14 @@ const recipes = [
   "video": {
    "youtubeId": "wPU5zSOukPU",
    "topic": "Microwave banana oat mug cake"
+  },
+  "seasoning": {
+   "ingredients": {
+    "vanilla extract": "1/4 tsp",
+    "ground cinnamon": "1 pinch"
+   },
+   "step": 1,
+   "method": "Beat vanilla and cinnamon into the mashed banana mixture, scraping into the bottom of the mug for an even batter."
   }
  },
  {
@@ -1208,6 +1511,14 @@ const recipes = [
   "video": {
    "youtubeId": "EL5ZgRW0vQ0",
    "topic": "Stovetop peanut butter porridge"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1/4 tsp",
+    "ground ginger": "1 pinch"
+   },
+   "step": 2,
+   "method": "Toss the diced apple with cinnamon and ginger. Fold half into the hot oats to soften and leave half crisp for the topping."
   }
  },
  {
@@ -1238,6 +1549,14 @@ const recipes = [
   "video": {
    "youtubeId": "L4Rax5oUYVE",
    "topic": "Egg and bean breakfast burrito"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "fresh coriander": "1 tbsp"
+   },
+   "step": 1,
+   "method": "Warm paprika through the beans and crush a few to thicken the filling. Scatter chopped coriander over the egg before rolling."
   }
  },
  {
@@ -1265,6 +1584,14 @@ const recipes = [
   "video": {
    "youtubeId": "JA-930RFSSE",
    "topic": "Tuna mayo sandwich"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon juice": "1 tsp",
+    "fresh dill": "1 tsp"
+   },
+   "step": 2,
+   "method": "Chop the dill finely and stir it through the tuna mayo with lemon juice. Fold gently to keep a few flakes intact."
   }
  },
  {
@@ -1295,6 +1622,14 @@ const recipes = [
   "video": {
    "youtubeId": "6l7j30Q4LOM",
    "topic": "Making a hummus wrap"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1 pinch",
+    "fresh mint": "3 leaves"
+   },
+   "step": 1,
+   "method": "Dust the hummus with cumin. Tear the mint into small pieces and scatter over the cucumber before rolling."
   }
  },
  {
@@ -1326,6 +1661,14 @@ const recipes = [
   "video": {
    "youtubeId": "YYBEAYw9C54",
    "topic": "Pizza toast"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "garlic": "1/2 clove"
+   },
+   "step": 1,
+   "method": "Finely grate garlic into the drained tomatoes and crush in the oregano before spreading the sauce on the bread."
   }
  },
  {
@@ -1355,6 +1698,14 @@ const recipes = [
   "video": {
    "youtubeId": "lUcglZZB3x0",
    "topic": "Tuna pasta salad"
+  },
+  "seasoning": {
+   "ingredients": {
+    "Dijon mustard": "1/2 tsp",
+    "chives": "1 tsp"
+   },
+   "step": 2,
+   "method": "Whisk mustard into the mayonnaise and loosen with a teaspoon of water. Snip in chives before dressing the pasta."
   }
  },
  {
@@ -1384,6 +1735,14 @@ const recipes = [
   "video": {
    "youtubeId": "Fyfj5ozl-rI",
    "topic": "Greek-style chickpea bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "red wine vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Toss the cut tomatoes with vinegar and oregano. Let their juices collect while you crumble the feta, then dress the chickpeas with those juices."
   }
  },
  {
@@ -1412,6 +1771,14 @@ const recipes = [
   "video": {
    "youtubeId": "2YCd65MJl1g",
    "topic": "Cheddar and pickle sandwich"
+  },
+  "seasoning": {
+   "ingredients": {
+    "English mustard": "1/4 tsp",
+    "watercress": "1 small handful"
+   },
+   "step": 2,
+   "method": "Spread mustard thinly on the second slice. Tuck the watercress against the cheese so it keeps its crunch."
   }
  },
  {
@@ -1442,6 +1809,14 @@ const recipes = [
   "video": {
    "youtubeId": "A7v8SS1jPt0",
    "topic": "Tuna and cottage cheese jacket potato"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chives": "1 tsp",
+    "lemon zest": "1 pinch"
+   },
+   "step": 2,
+   "method": "Fold snipped chives and lemon zest through the cottage cheese. Keep the filling cool until the potato is ready."
   }
  },
  {
@@ -1475,6 +1850,14 @@ const recipes = [
   "video": {
    "youtubeId": "WrDsasF7SFY",
    "topic": "Cold peanut noodle salad"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "lime juice": "1 tsp"
+   },
+   "step": 2,
+   "method": "Grate ginger into the peanut dressing and stir in lime juice. Add water a teaspoon at a time until it coats the back of a spoon."
   }
  },
  {
@@ -1506,6 +1889,14 @@ const recipes = [
   "video": {
    "youtubeId": "RGx8vBm1_Rk",
    "topic": "Creamy mushroom pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "lemon zest": "1 pinch"
+   },
+   "step": 2,
+   "method": "Let the mushrooms colour on one side before turning. Add thyme towards the end of frying and finish the creamy sauce with lemon zest."
   }
  },
  {
@@ -1538,6 +1929,14 @@ const recipes = [
   "video": {
    "youtubeId": "gmtlO7FOb_c",
    "topic": "Lemon chickpea pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chilli flakes": "1 pinch",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Add chilli flakes to the warm garlic oil for a few seconds. Finely chop parsley and fold through the pasta with the lemon."
   }
  },
  {
@@ -1569,6 +1968,14 @@ const recipes = [
   "video": {
    "youtubeId": "1KLO_rh81Rw",
    "topic": "Cheesy broccoli pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "Dijon mustard": "1/2 tsp",
+    "ground nutmeg": "1 pinch"
+   },
+   "step": 2,
+   "method": "Mash a few broccoli florets with the reserved water. Stir mustard and nutmeg into the cheese sauce and fold in the mashed broccoli."
   }
  },
  {
@@ -1601,6 +2008,14 @@ const recipes = [
   "video": {
    "youtubeId": "3naTK8bJmYM",
    "topic": "Lentil spaghetti"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "balsamic vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Simmer oregano with the tomatoes and lentils. Stir in balsamic vinegar just before tossing with spaghetti."
   }
  },
  {
@@ -1633,6 +2048,14 @@ const recipes = [
   "video": {
    "youtubeId": "DuEuBaVArL0",
    "topic": "Mushroom fried rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "toasted sesame oil": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Let the mushroom edges brown before adding grated ginger. Stir sesame oil through the rice after taking it off the heat."
   }
  },
  {
@@ -1663,6 +2086,14 @@ const recipes = [
   "video": {
    "youtubeId": "zpElI5KA9cY",
    "topic": "Gnocchi with spinach and pesto"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Stir chilli flakes into the wilting spinach. Add lemon zest with the pesto once the pan is off the heat."
   }
  },
  {
@@ -1695,6 +2126,14 @@ const recipes = [
   "video": {
    "youtubeId": "KDbZV4IXTH0",
    "topic": "One-pot tomato rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Stir the spices through the softened onion. Add the dry rice and turn it in the seasoned oil before pouring in the liquid."
   }
  },
  {
@@ -1727,6 +2166,14 @@ const recipes = [
   "video": {
    "youtubeId": "9FzKK5FJa78",
    "topic": "Red lentil dhal"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "fresh ginger": "1 tsp"
+   },
+   "step": 2,
+   "method": "Grate ginger into the softened onion. Add cumin with the curry powder and stir until fragrant before adding liquid."
   }
  },
  {
@@ -1759,6 +2206,14 @@ const recipes = [
   "video": {
    "youtubeId": "-7cmX2Jw1KI",
    "topic": "Chickpea and spinach stew"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Stir coriander and paprika into the garlic oil. Have the tomatoes ready to tip in as soon as the spices smell fragrant."
   }
  },
  {
@@ -1791,6 +2246,14 @@ const recipes = [
   "video": {
    "youtubeId": "60VPqDlPN3o",
    "topic": "Black bean fajitas"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "lime juice": "1 tsp"
+   },
+   "step": 1,
+   "method": "Let the pepper edges blister before stirring in cumin. Squeeze lime over the beans as you fill the wraps."
   }
  },
  {
@@ -1823,6 +2286,14 @@ const recipes = [
   "video": {
    "youtubeId": "kRw_Dq5Qipw",
    "topic": "Roasted vegetable couscous"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "fresh mint": "4 leaves"
+   },
+   "step": 1,
+   "method": "Toss the vegetables with ground coriander before roasting. Tear mint into the couscous just before serving."
   }
  },
  {
@@ -1855,6 +2326,14 @@ const recipes = [
   "video": {
    "youtubeId": "XORa7QtjRi8",
    "topic": "Sweet and salty tofu rice bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "rice vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Mix grated ginger and vinegar into the soy. Add the mixture once the tofu has browned so its edges stay golden."
   }
  },
  {
@@ -1887,6 +2366,14 @@ const recipes = [
   "video": {
    "youtubeId": "WNJ3hCxA6lY",
    "topic": "Mushroom and bean tacos"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "ground cumin": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Let the mushroom liquid bubble away. Add the spices to the browned mushrooms and stir briefly before adding the beans."
   }
  },
  {
@@ -1918,6 +2405,14 @@ const recipes = [
   "video": {
    "youtubeId": "5NBzemfbzUc",
    "topic": "Vegetable frittata"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "chives": "1 tsp"
+   },
+   "step": 2,
+   "method": "Crumble thyme over the potatoes and let their edges colour. Snip chives into the beaten eggs."
   }
  },
  {
@@ -1949,6 +2444,14 @@ const recipes = [
   "video": {
    "youtubeId": "618QsMaVXp8",
    "topic": "Eggs poached in tomato sauce"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Stir cumin and paprika into the soft peppers for 20 seconds. Scrape the spices from the pan into the tomato sauce."
   }
  },
  {
@@ -1979,6 +2482,14 @@ const recipes = [
   "video": {
    "youtubeId": "Qfn1hrXtZP8",
    "topic": "Microwave cheesy noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "garlic granules": "1 pinch",
+    "chives": "1 tsp"
+   },
+   "step": 2,
+   "method": "Mix garlic granules with a spoonful of hot noodle water. Stir into the cheese and finish with snipped chives."
   }
  },
  {
@@ -2008,6 +2519,14 @@ const recipes = [
   "video": {
    "youtubeId": "pKPG_9sdRNs",
    "topic": "Tuna jacket potato filling"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon juice": "1 tsp",
+    "fresh dill": "1 tsp"
+   },
+   "step": 2,
+   "method": "Fold chopped dill and lemon juice into the tuna filling. Break up the largest pieces but leave some flakes for texture."
   }
  },
  {
@@ -2039,6 +2558,14 @@ const recipes = [
   "video": {
    "youtubeId": "zMegJLUd8jQ",
    "topic": "Making a pizza wrap"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 1,
+   "method": "Rub oregano over the tomato layer and scatter chilli flakes evenly so each bite gets a little warmth."
   }
  },
  {
@@ -2071,6 +2598,14 @@ const recipes = [
   "video": {
    "youtubeId": "ESJnmZJa9T8",
    "topic": "Building a vegetarian burrito bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "lime juice": "1 tsp"
+   },
+   "step": 2,
+   "method": "Stir cumin into the hot beans. Mash a few against the bowl, then stir in lime juice before adding the rice."
   }
  },
  {
@@ -2101,6 +2636,14 @@ const recipes = [
   "video": {
    "youtubeId": "JJDa58qNAKE",
    "topic": "Air-fryer sweet potato wedges"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "garlic granules": "1 pinch"
+   },
+   "step": 2,
+   "method": "Toss cumin and garlic granules with the paprika and oil. Rub over the cut faces so the seasoning clings as the wedges crisp."
   }
  },
  {
@@ -2132,6 +2675,14 @@ const recipes = [
   "video": {
    "youtubeId": "ANNB_0dDdMc",
    "topic": "Air-fryer tofu bites"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground ginger": "1/4 tsp",
+    "garlic granules": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Mix ginger and garlic into the cornflour to distribute them evenly. Shake off loose coating before air frying."
   }
  },
  {
@@ -2163,6 +2714,14 @@ const recipes = [
   "video": {
    "youtubeId": "K8fSbdH_H9I",
    "topic": "Tomato couscous"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "lemon zest": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Stir oregano into the hot soaking water. When the grains are tender, fluff with a fork and fold in the lemon zest."
   }
  },
  {
@@ -2194,6 +2753,14 @@ const recipes = [
   "video": {
    "youtubeId": "DOvP16A_bAA",
    "topic": "Making instant cup noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "toasted sesame oil": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Grate ginger into the hot broth while the noodles soften. Drizzle sesame oil into the bowl just before eating."
   }
  },
  {
@@ -2223,6 +2790,14 @@ const recipes = [
   "video": {
    "youtubeId": "b4d5-sZ3icM",
    "topic": "Tuna and tomato spaghetti"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chilli flakes": "1 pinch",
+    "dried oregano": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Add chilli flakes to the garlic oil and stir oregano through the tomatoes. Fold the tuna in last to keep it in flakes."
   }
  },
  {
@@ -2252,6 +2827,14 @@ const recipes = [
   "video": {
    "youtubeId": "Np9SrVrGvCQ",
    "topic": "Salmon and pea pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh dill": "1 tsp",
+    "lemon zest": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Chop dill and stir it into the cream cheese with lemon zest. Loosen with a spoonful of pasta water before adding the salmon."
   }
  },
  {
@@ -2281,6 +2864,14 @@ const recipes = [
   "video": {
    "youtubeId": "2xvuAFIrRxA",
    "topic": "Tuna fishcakes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh parsley": "1 tbsp",
+    "Dijon mustard": "1/2 tsp"
+   },
+   "step": 1,
+   "method": "Steam-dry the drained potatoes briefly before mashing. Stir mustard and finely chopped parsley into the mash before adding the tuna."
   }
  },
  {
@@ -2309,6 +2900,14 @@ const recipes = [
   "video": {
    "youtubeId": "rMf0JH7ewQw",
    "topic": "Sardines on toast"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1 pinch",
+    "lemon juice": "1 tsp"
+   },
+   "step": 1,
+   "method": "Stir paprika into the tomato juices and warm gently, keeping the sardines in pieces. Squeeze over lemon just before serving."
   }
  },
  {
@@ -2337,6 +2936,14 @@ const recipes = [
   "video": {
    "youtubeId": "nO42npMHUco",
    "topic": "Air-fryer fish fingers and wedges"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried dill": "1/4 tsp",
+    "lemon zest": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Mix dill and lemon zest together and set aside. Toss with the hot wedges after air frying so the herbs stay fragrant."
   }
  },
  {
@@ -2366,6 +2973,14 @@ const recipes = [
   "video": {
    "youtubeId": "Cmc0TsCh89I",
    "topic": "Honey soy chicken noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Grate ginger into the honey and soy and add chilli flakes. Have the glaze ready to toss through once the chicken has cooked."
   }
  },
  {
@@ -2395,6 +3010,14 @@ const recipes = [
   "video": {
    "youtubeId": "fU5ifsXOoFw",
    "topic": "Chicken and vegetable soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Simmer thyme with the vegetables. Chop the parsley finely and stir it in after the chicken is cooked, just before ladling out."
   }
  },
  {
@@ -2425,6 +3048,14 @@ const recipes = [
   "video": {
    "youtubeId": "h8Ywf3b4D2o",
    "topic": "Chicken pesto pasta"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 1,
+   "method": "Reserve a mug of pasta water before draining. Loosen the pesto with a splash of it, then stir in lemon zest and chilli flakes."
   }
  },
  {
@@ -2454,6 +3085,14 @@ const recipes = [
   "video": {
    "youtubeId": "TC450P65xPw",
    "topic": "White bean and sausage skillet"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried sage": "1 pinch",
+    "cider vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Rub sage into the onion and scrape up the browned sausage juices. Stir vinegar into the beans at the end to balance their sweetness."
   }
  },
  {
@@ -2483,6 +3122,14 @@ const recipes = [
   "video": {
    "youtubeId": "Fuc9tD5Hq-g",
    "topic": "One-pan minced beef and rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "ground coriander": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Give the mince time to brown before stirring in cumin and coriander. Stir for 20 seconds, then add the tomatoes."
   }
  },
  {
@@ -2512,6 +3159,14 @@ const recipes = [
   "video": {
    "youtubeId": "F2qYQZ7Q68s",
    "topic": "Beef and bean burritos"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "dried oregano": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Once the mince has browned, stir paprika and oregano into the pan juices. Add a spoonful of water to lift the browned bits."
   }
  },
  {
@@ -2541,6 +3196,14 @@ const recipes = [
   "video": {
    "youtubeId": "6FQwIJFhf_k",
    "topic": "Preparing an apple and granola snack"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cinnamon": "1/4 tsp",
+    "ground ginger": "1 pinch"
+   },
+   "step": 1,
+   "method": "Stir cinnamon and ginger into the peanut butter, loosening with a few drops of warm water for a dip."
   }
  },
  {
@@ -2570,6 +3233,14 @@ const recipes = [
   "video": {
    "youtubeId": "gO566XGr_F4",
    "topic": "Cocoa banana smoothie"
+  },
+  "seasoning": {
+   "ingredients": {
+    "vanilla extract": "1/4 tsp",
+    "ground cinnamon": "1 pinch"
+   },
+   "step": 1,
+   "method": "Mix cocoa, cinnamon and vanilla with a splash of the milk to make a paste before blending. This helps disperse the cocoa."
   }
  },
  {
@@ -2598,6 +3269,14 @@ const recipes = [
   "video": {
    "youtubeId": "aYwkYRm12QM",
    "topic": "Berry yoghurt parfait"
+  },
+  "seasoning": {
+   "ingredients": {
+    "orange zest": "1/4 tsp",
+    "vanilla extract": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Fold orange zest and vanilla into the yoghurt. Crush some prepared berries with a fork and swirl them through."
   }
  },
  {
@@ -2629,6 +3308,14 @@ const recipes = [
   "video": {
    "youtubeId": "I4Sno4zeF9g",
    "topic": "Potato salad with egg and mayo"
+  },
+  "seasoning": {
+   "ingredients": {
+    "Dijon mustard": "1/2 tsp",
+    "fresh dill": "1 tsp"
+   },
+   "step": 2,
+   "method": "Whisk mustard and chopped dill into the mayonnaise. Coat the potatoes first, then gently fold in the egg pieces."
   }
  },
  {
@@ -2662,6 +3349,14 @@ const recipes = [
   "video": {
    "youtubeId": "iIDRzRRDvTQ",
    "topic": "Chicken curry served with rice"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1 tsp",
+    "ground cumin": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Grate ginger alongside the garlic. Add them together, then stir cumin in with the curry powder so it toasts briefly before the water goes in."
   }
  },
  {
@@ -2698,6 +3393,14 @@ const recipes = [
   "video": {
    "youtubeId": "jM8K0eFvatE",
    "topic": "Tomato and basil spaghetti"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chilli flakes": "1 pinch",
+    "dried oregano": "1 pinch"
+   },
+   "step": 2,
+   "method": "Add chilli flakes as the garlic turns fragrant. Rub oregano into the tomato juices and let the sauce reduce before tossing with spaghetti."
   }
  },
  {
@@ -2731,6 +3434,14 @@ const recipes = [
   "video": {
    "youtubeId": "yZOsSAzMerc",
    "topic": "One-pan golden chicken pilaf"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "ground cinnamon": "1 pinch"
+   },
+   "step": 1,
+   "method": "Measure cumin and cinnamon into the curry powder. Stir them through the chicken juices before coating the rice in the spiced oil."
   }
  },
  {
@@ -2765,6 +3476,14 @@ const recipes = [
   "video": {
    "youtubeId": "GhnUZab5Vjc",
    "topic": "Coconut chickpea curry"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1 tsp",
+    "lime juice": "1 tsp"
+   },
+   "step": 1,
+   "method": "Grate ginger into the softened onion. Keep the lime juice for the end and stir it in off the heat to brighten the coconut sauce."
   }
  },
  {
@@ -2795,6 +3514,14 @@ const recipes = [
   "video": {
    "youtubeId": "-CCGt_GDO8Y",
    "topic": "Lemon chicken traybake"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried rosemary": "1/4 tsp",
+    "smoked paprika": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Crush rosemary finely and scatter it over the potatoes. Rub paprika into the oiled chicken before roasting."
   }
  },
  {
@@ -2831,6 +3558,14 @@ const recipes = [
   "video": {
    "youtubeId": "6gH0Gjb8rq8",
    "topic": "Smoky bean tacos"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh coriander": "1 tbsp",
+    "ground cumin": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Chop coriander stalks into the tomato salsa and save the leaves for serving. Add cumin to the pan with the paprika."
   }
  },
  {
@@ -2865,6 +3600,14 @@ const recipes = [
   "video": {
    "youtubeId": "8ak3lUxy_yU",
    "topic": "Creamy mushroom risotto"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 1,
+   "method": "Rub thyme into the stock while it is hot. Keep the chopped parsley for the end, folding it through with the cheese."
   }
  },
  {
@@ -2900,6 +3643,14 @@ const recipes = [
   "video": {
    "youtubeId": "wFgwyEXsjYk",
    "topic": "Red lentil and carrot soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "lemon juice": "1 tsp"
+   },
+   "step": 1,
+   "method": "Measure ground coriander alongside the cumin and fry them together with the onion. Finish the cooked lentils with lemon juice."
   }
  },
  {
@@ -2932,6 +3683,14 @@ const recipes = [
   "video": {
    "youtubeId": "gIc-8VoATHA",
    "topic": "Tuna tomato pasta bake"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Add oregano and chilli flakes as the tomatoes simmer. Use your spoon to crush any larger pieces before folding in the pasta."
   }
  },
  {
@@ -2964,6 +3723,14 @@ const recipes = [
   "video": {
    "youtubeId": "LSMyhBGSZRs",
    "topic": "Potato frittata"
+  },
+  "seasoning": {
+   "ingredients": {
+    "smoked paprika": "1/4 tsp",
+    "chives": "1 tsp"
+   },
+   "step": 2,
+   "method": "Dust the golden potato edges with paprika and turn once. Snip the chives into the beaten egg before pouring it over."
   }
  },
  {
@@ -2996,6 +3763,14 @@ const recipes = [
   "video": {
    "youtubeId": "TsYR_WVHofU",
    "topic": "Making a salmon rice bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "rice vinegar": "1 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 1,
+   "method": "Toss the cucumber sticks with vinegar and chilli and leave them while you cook the salmon. Spoon a little of the pickle juice over the rice."
   }
  },
  {
@@ -3027,6 +3802,14 @@ const recipes = [
   "video": {
    "youtubeId": "QYkewU1Flyk",
    "topic": "Oven-roasted sausages and peppers"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fennel seeds": "1/4 tsp",
+    "dried thyme": "1/4 tsp"
+   },
+   "step": 2,
+   "method": "Crush the fennel seeds under the back of a spoon. Toss with thyme and the peppers so the spices roast in the sausage juices."
   }
  },
  {
@@ -3061,6 +3844,14 @@ const recipes = [
   "video": {
    "youtubeId": "3f9MiJJ0-dM",
    "topic": "Vegan garlic noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "rice vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Stir grated ginger into the garlic just until fragrant. Add vinegar with the soy to give the sticky noodles a sharper finish."
   }
  },
  {
@@ -3096,6 +3887,14 @@ const recipes = [
   "video": {
    "youtubeId": "KjqdeTk_6Rc",
    "topic": "White beans on toast"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried rosemary": "1 pinch",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Crush rosemary finely and warm it with the beans. Scatter chilli flakes over the mash as you spoon it onto the toast."
   }
  },
  {
@@ -3130,6 +3929,14 @@ const recipes = [
   "video": {
    "youtubeId": "WMAmZjZOqw4",
    "topic": "Spiced cauliflower and lentil bowl"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "fresh mint": "4 leaves"
+   },
+   "step": 1,
+   "method": "Add ground coriander to the cauliflower with the cumin. Slice mint finely and fold it into the lemon yoghurt just before serving."
   }
  },
  {
@@ -3162,6 +3969,14 @@ const recipes = [
   "video": {
    "youtubeId": "15YmFitnMms",
    "topic": "Spinach and feta baked eggs"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground nutmeg": "1 pinch",
+    "fresh dill": "1 tsp"
+   },
+   "step": 1,
+   "method": "Squeeze excess water from the wilted spinach, then season it with nutmeg. Fold chopped dill through the feta mixture."
   }
  },
  {
@@ -3197,6 +4012,14 @@ const recipes = [
   "video": {
    "youtubeId": "IlEkvAi2RuU",
    "topic": "Crispy tofu with peanut sauce"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 1,
+   "method": "Finely grate ginger into the peanut butter and add chilli flakes. Loosen this mixture with the lime and soy when making the sauce."
   }
  },
  {
@@ -3230,6 +4053,14 @@ const recipes = [
   "video": {
    "youtubeId": "95rQbk_prDA",
    "topic": "Sweetcorn fritters"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "fresh coriander": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Mix cumin and finely chopped coriander through the batter. Leave some sweetcorn kernels whole for pops of sweetness."
   }
  },
  {
@@ -3263,6 +4094,14 @@ const recipes = [
   "video": {
    "youtubeId": "hCjvZKemESQ",
    "topic": "Black bean and sweet potato boats"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "fresh coriander": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Mash a few hot beans with the cumin and a spoonful of their cooking liquid. Scatter chopped coriander over the filled potato."
   }
  },
  {
@@ -3292,6 +4131,14 @@ const recipes = [
   "video": {
    "youtubeId": "ecAARbkKs-4",
    "topic": "Chicken and sweetcorn noodle soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "garlic": "1/2 clove",
+    "ground white pepper": "1 pinch"
+   },
+   "step": 1,
+   "method": "Crush garlic and simmer it in the stock with the ginger. Add white pepper before the noodles so its warmth runs through the broth."
   }
  },
  {
@@ -3326,6 +4173,14 @@ const recipes = [
   "video": {
    "youtubeId": "eG9_u3gHYV4",
    "topic": "Preparing couscous without a hob"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Whisk cumin into the lemon hummus dressing. Chop parsley and toss it with the grated carrot before folding through the grains."
   }
  },
  {
@@ -3359,6 +4214,14 @@ const recipes = [
   "video": {
    "youtubeId": "TaOcIfvAFoQ",
    "topic": "Creamy butter bean skillet"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried thyme": "1/4 tsp",
+    "red wine vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Rub thyme into the simmering beans. Once the sauce thickens, add the vinegar a little at a time to balance the tomatoes."
   }
  },
  {
@@ -3388,6 +4251,14 @@ const recipes = [
   "video": {
    "youtubeId": "B20Xelwc3Js",
    "topic": "Apple crumble overnight oats"
+  },
+  "seasoning": {
+   "ingredients": {
+    "vanilla extract": "1/4 tsp",
+    "ground ginger": "1 pinch"
+   },
+   "step": 1,
+   "method": "Mix vanilla and ginger with the grated apple. Press gently with a fork to release some juice before stirring in the oats."
   }
  },
  {
@@ -3416,6 +4287,14 @@ const recipes = [
   "video": {
    "youtubeId": "pIRt_buqMeY",
    "topic": "Air-fryer fish parcels"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh dill": "1 tsp",
+    "Dijon mustard": "1/2 tsp"
+   },
+   "step": 1,
+   "method": "Spread a thin layer of mustard over the fish and tuck chopped dill under the lemon before sealing the parcel."
   }
  },
  {
@@ -3449,6 +4328,14 @@ const recipes = [
   "video": {
    "youtubeId": "1Za3OM8tyow",
    "topic": "Creamy pea gnocchi"
+  },
+  "seasoning": {
+   "ingredients": {
+    "lemon zest": "1/4 tsp",
+    "ground nutmeg": "1 pinch"
+   },
+   "step": 2,
+   "method": "Work the zest and nutmeg into the pea and cream cheese mixture. Leave a few peas whole to contrast with the soft gnocchi."
   }
  },
  {
@@ -3483,6 +4370,14 @@ const recipes = [
   "video": {
    "youtubeId": "iANhmhTyugU",
    "topic": "Harissa chickpea flatbreads"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh mint": "4 leaves",
+    "lemon juice": "1 tsp"
+   },
+   "step": 2,
+   "method": "Shred mint and mix it with the yoghurt and lemon juice. Spoon the cool dressing over the hot harissa chickpeas."
   }
  },
  {
@@ -3514,6 +4409,14 @@ const recipes = [
   "video": {
    "youtubeId": "gdQXHFDakHc",
    "topic": "One-pot sausage orzo"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fennel seeds": "1/4 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 1,
+   "method": "Crush fennel seeds under a spoon and add them to the browned sausage with chilli flakes. Stir briefly before adding the orzo."
   }
  },
  {
@@ -3544,6 +4447,14 @@ const recipes = [
   "video": {
    "youtubeId": "hWjmVnndCyU",
    "topic": "Broccoli cheddar soup"
+  },
+  "seasoning": {
+   "ingredients": {
+    "English mustard": "1/4 tsp",
+    "ground nutmeg": "1 pinch"
+   },
+   "step": 2,
+   "method": "Mix mustard and nutmeg with a spoonful of hot broth. Stir this back into the pan before adding the cheese."
   }
  },
  {
@@ -3580,6 +4491,14 @@ const recipes = [
   "video": {
    "youtubeId": "POOStukXx1k",
    "topic": "Spanish chickpea and potato stew"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "sherry vinegar": "1 tsp"
+   },
+   "step": 2,
+   "method": "Turn the browned potatoes in cumin with the paprika. Stir vinegar through the tomato sauce at the end to sharpen the smoky flavour."
   }
  },
  {
@@ -3612,6 +4531,14 @@ const recipes = [
   "video": {
    "youtubeId": "DyC_f2qhC-s",
    "topic": "Cheesy mashed potato cakes"
+  },
+  "seasoning": {
+   "ingredients": {
+    "chives": "1 tsp",
+    "English mustard": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Beat mustard and snipped chives into the warm mash. Let steam escape before shaping so the cakes hold together."
   }
  },
  {
@@ -3644,6 +4571,14 @@ const recipes = [
   "video": {
    "youtubeId": "tJVC9anCirg",
    "topic": "Pear and cinnamon porridge"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cardamom": "1 pinch",
+    "vanilla extract": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Mix the pear with cardamom and vanilla. Reserve a spoonful of pear to scatter over the creamy oats for a fresher finish."
   }
  },
  {
@@ -3678,6 +4613,14 @@ const recipes = [
   "video": {
    "youtubeId": "c1oet_nIBaw",
    "topic": "Cold cucumber and sesame noodles"
+  },
+  "seasoning": {
+   "ingredients": {
+    "fresh ginger": "1/2 tsp",
+    "chilli flakes": "1 pinch"
+   },
+   "step": 2,
+   "method": "Grate ginger into the tahini dressing and add chilli flakes. Whisk in cold water gradually until the dressing falls from the spoon in ribbons."
   }
  },
  {
@@ -3709,6 +4652,14 @@ const recipes = [
   "video": {
    "youtubeId": "9PDc41_Rqwk",
    "topic": "Chicken pitta pockets"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground cumin": "1/4 tsp",
+    "fresh mint": "4 leaves"
+   },
+   "step": 1,
+   "method": "Add cumin to the chicken with the paprika. Finely slice the mint with a clean knife and stir it into the cucumber yoghurt."
   }
  },
  {
@@ -3743,6 +4694,14 @@ const recipes = [
   "video": {
    "youtubeId": "78ENTFiAqtw",
    "topic": "Cooking fluffy couscous"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground coriander": "1/4 tsp",
+    "fresh parsley": "1 tbsp"
+   },
+   "step": 2,
+   "method": "Stir ground coriander into the hot soaking water. Fluff the grains before folding in chopped parsley with the peas."
   }
  },
  {
@@ -3776,6 +4735,14 @@ const recipes = [
   "video": {
    "youtubeId": "gWUkJpF7vn4",
    "topic": "Air-fryer apple crumble"
+  },
+  "seasoning": {
+   "ingredients": {
+    "ground ginger": "1/4 tsp",
+    "orange zest": "1/4 tsp"
+   },
+   "step": 1,
+   "method": "Rub orange zest into the crumble sugar with your fingertips. Toss ginger with the diced apple before covering it with the topping."
   }
  },
  {
@@ -3805,6 +4772,14 @@ const recipes = [
   "video": {
    "youtubeId": "F1r3gnh7P7o",
    "topic": "Sardine and bean salad"
+  },
+  "seasoning": {
+   "ingredients": {
+    "Dijon mustard": "1/2 tsp",
+    "red wine vinegar": "1/2 tsp"
+   },
+   "step": 2,
+   "method": "Whisk mustard and vinegar into the lemon dressing. Coat the beans before gently folding in the sardines to keep them in flakes."
   }
  },
  {
@@ -3839,6 +4814,14 @@ const recipes = [
   "video": {
    "youtubeId": "WbXNK4R2eyw",
    "topic": "Roasted pepper and feta couscous"
+  },
+  "seasoning": {
+   "ingredients": {
+    "dried oregano": "1/4 tsp",
+    "fresh mint": "4 leaves"
+   },
+   "step": 1,
+   "method": "Rub oregano over the oiled pepper before roasting. Tear mint into the finished couscous with the feta."
   }
  }
 ];

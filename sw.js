@@ -1,7 +1,7 @@
 'use strict';
 const root = self.registration.scope;
 const family = 'grubclub-' + new URL(root).pathname + '-';
-const version = family + 'quick-plates-v7-ingredient-search';
+const version = family + 'quick-plates-v8-recipe-seasonings';
 const shell = ['index.html','guide.html','styles.css','app.js','recipes.js','kitchen.js','icon.svg','manifest.webmanifest','app-192.png','app-512.png','images/101.jpg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(version).then(cache => cache.addAll(shell.map(path => new Request(new URL(path, root), {cache:'reload'})))).then(() => self.skipWaiting()));
