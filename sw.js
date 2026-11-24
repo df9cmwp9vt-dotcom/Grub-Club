@@ -1,10 +1,10 @@
 'use strict';
 const root = self.registration.scope;
 const family = 'grubclub-' + new URL(root).pathname + '-';
-const version = family + 'af46d27f4fdd9f73';
+const version = family + 'quick-plates-v1';
 const shell = ['index.html','styles.css','app.js','recipes.js','kitchen.js','icon.svg','manifest.webmanifest','app-192.png','app-512.png','images/101.jpg'];
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(version).then(cache => cache.addAll(shell.map(path => new Request(new URL(path, root), {cache:'reload'})))));
+  event.waitUntil(caches.open(version).then(cache => cache.addAll(shell.map(path => new Request(new URL(path, root), {cache:'reload'})))).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', event => {
   event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(family) && key !== version).map(key => caches.delete(key)))).then(() => self.clients.claim()));
